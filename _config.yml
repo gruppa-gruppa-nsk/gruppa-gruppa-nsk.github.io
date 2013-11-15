@@ -1,4 +1,6 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+relative_permalinks: true
+permalink: none
 markdown: kramdown
