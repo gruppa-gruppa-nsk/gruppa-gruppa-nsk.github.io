@@ -5,7 +5,7 @@
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
 	<script src="/assets/js/html5shiv.js"></script>
     <script src="/assets/js/respond.min.js"></script>
-	<title>{{page.title}}</title>
+	<title>Document</title>
 </head>
 <body>
 	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
