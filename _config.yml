@@ -4,3 +4,4 @@ pygments: true
 relative_permalinks: true
 permalink: none
 markdown: kramdown
+destination: ../site-public
