@@ -2,6 +2,6 @@ name: Группа "Группа"
 markdown: redcarpet
 pygments: true
 relative_permalinks: true
-permalink: none
+permalink: /:categories/:title/
 markdown: kramdown
 destination: ../site-public
