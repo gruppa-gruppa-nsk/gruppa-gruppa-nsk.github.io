@@ -5,3 +5,5 @@ relative_permalinks: true
 permalink: /:categories/:title/
 markdown: kramdown
 destination: ../site-public
+pagination: 15
+paginate_path : "/page:num"
