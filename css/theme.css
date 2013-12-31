@@ -12,3 +12,7 @@
   color: inherit;
   text-align: center;
 }
+.navbar{
+	font-family: 'beer_money', Open Sans, Calibri, Candara, Arial, sans-serif;
+	font-size: 20px;
+}
