@@ -12,7 +12,7 @@ name: "\"Тёплый. Ламповый\" — первый электричес�
 <a title="кликните для получения полноразмерного изображения" href="/albums/files/tyoplyy-lampovyy/img/oblojka.png"><img alt="Обложка альбома" src="/albums/files/tyoplyy-lampovyy/img/oblojkaprew.png"></a><br>
 [*png*](/albums/files/tyoplyy-lampovyy/img/oblojka.png) [*tif* для принтеров](/albums/files/tyoplyy-lampovyy/img/oblojka.tif)  
 Прослушать на *Jamendo* и скачать:  
-<iframe id="widget" scrolling="no" frameborder="0" width="500" height="170" style="width: 500px; height: 170px;" src="//widgets.jamendo.com/v3/album/130636?autoplay=0&layout=standard&manualWidth=400&width=500&theme=light&highlight=7&tracklist=0&tracklist_n=3&embedCode="></iframe>
+<iframe id="widget" scrolling="no" frameborder="0" width="500" height="274" style="width: 500px; height: 274px;" src="//widgets.jamendo.com/v3/album/130636?autoplay=0&layout=standard&manualWidth=400&width=500&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="></iframe>
   
 Сингл состоит из трёх песен:
 
