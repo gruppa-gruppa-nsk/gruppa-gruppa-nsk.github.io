@@ -1,6 +1,6 @@
 name: Группа "Группа"
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 relative_permalinks: true
 permalink: /:categories/:title/
 markdown: kramdown
