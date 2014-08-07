@@ -3,3 +3,9 @@ layout: default
 title: Песни группы
 ---
 Здесь будут выводиться песни группы
+
+{% for post in site.posts %}
+	{% if post.categories contains 'songs' %}
+    	<li><span>{{ post.date | date_to_string }}</span> &raquo <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endif %}
+{% endfor %}
