@@ -3,7 +3,6 @@ published: true
 layout: post
 title: "Маньяк | Тёплый. Ламповый"
 description: Не Суй Руку В Огонь
-date: {}
 categories: songs
 name: "\"Маньяк\" — из сингла Тёплый. Ламповый"
 ---
