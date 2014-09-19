@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Не Суй Руку В Огонь | Тёплый. Ламповый"
 description: Не Суй Руку В Огонь
