@@ -2,4 +2,4 @@ name: Группа "Группа"
 highlighter: pygments
 relative_permalinks: true
 permalink: /:categories/:title/
-destination: ../gruppa-gruppa-nsk.github.io
+destination: /_site
