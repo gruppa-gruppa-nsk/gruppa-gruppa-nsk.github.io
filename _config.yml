@@ -2,4 +2,4 @@ name: Группа "Группа"
 highlighter: pygments
 relative_permalinks: true
 permalink: /:categories/:title/
-destination: /_site
+destination: _site
