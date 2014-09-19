@@ -13,20 +13,20 @@ name: "\"Маньяк\" — из сингла Тёплый. Ламповый"
 <iframe id="widget" scrolling="no" frameborder="0" width="500" height="274" style="width: 500px; height: 274px;" src="//widgets.jamendo.com/v3/artist/440593?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="></iframe>
 
 ## Текст песни  
---F  
+____F  
 Я жду уже давно, 
----C  
+____C  
 На улице темно.  
----B  
+____B  
 Холодным зимним вечером —  
------A  
+_____A  
 Как будто делать нечего...  
 
 Но я уже привык —
 Ведь должен ждать мужик!  
 Стою и жду тебя  
 Довольно долго я...я  
-------------------Dm B Gm A
+___________________Dm B Gm A
 Я сексуальный маньяк!  
   
 Идёшь ты наконец,  
