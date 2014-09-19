@@ -1,9 +1,5 @@
 name: Группа "Группа"
-markdown: redcarpet
 highlighter: pygments
 relative_permalinks: true
 permalink: /:categories/:title/
-markdown: kramdown
 destination: ../gruppa-gruppa-nsk.github.io
-pagination: 15
-paginate_path : "/page:num"
