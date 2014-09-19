@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-title: "Не Суй Руку В Огонь | Тёплый. Ламповый"
+title: "Маньяк | Тёплый. Ламповый"
 description: Не Суй Руку В Огонь
 date: {}
 categories: songs
@@ -10,7 +10,7 @@ name: "\"Маньяк\" — из сингла Тёплый. Ламповый"
 
 ---
 layout: post
-title: "Не Суй Руку В Огонь | Тёплый. Ламповый"
+title: "Маньяк | Тёплый. Ламповый"
 description: "Не Суй Руку В Огонь"
 date: 2014-9-17 17:30:53
 categories: songs
