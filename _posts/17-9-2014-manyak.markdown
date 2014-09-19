@@ -8,15 +8,6 @@ categories: songs
 name: "\"Маньяк\" — из сингла Тёплый. Ламповый"
 ---
 
----
-layout: post
-title: "Маньяк | Тёплый. Ламповый"
-description: "Не Суй Руку В Огонь"
-date: 2014-9-17 17:30:53
-categories: songs
-name: "\"Маньяк\" — из сингла Тёплый. Ламповый"
----
-
 Песня с сингла <a target="blank" href="http://gruppa.utkorose.ru/albums/tyoplyy-lampovyy/">"Тёплый. Ламповый"</a>
 Прослушать на *Jamendo* и скачать:  
 
