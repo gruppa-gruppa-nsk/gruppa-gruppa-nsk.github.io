@@ -2,7 +2,6 @@
 layout: post
 title: "Красота вокруг тебя"
 description: "третий"
-date: 2014-4-29 12:30:53
 categories: albums
 name: "\"Красота вокруг тебя\" — третий электрический сингл"
 ---
