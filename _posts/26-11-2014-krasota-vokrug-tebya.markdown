@@ -9,8 +9,8 @@ name: "\"Красота вокруг тебя\" — третий электри�
 <iframe id="widget" scrolling="no" frameborder="0" width="400" height="437" style="width: 400px; height: 437px;" src="//widgets.jamendo.com/v3/album/140754?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="></iframe>
 Три песни о красоте.
 
-##Участники
-###Люди
+##Участники  
+###Люди  
 Славелий Роза  
 *Rinon Ninquenon*  
 Эпика Колората
