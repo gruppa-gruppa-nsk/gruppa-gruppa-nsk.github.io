@@ -10,7 +10,7 @@ name: "\"Не Суй Руку В Огонь\" — из сингла Тёплый
 Песня с сингла <a target="blank" href="http://gruppa.utkorose.ru/albums/tyoplyy-lampovyy/">"Тёплый. Ламповый"</a>
 Прослушать на *Jamendo* и скачать:  
 
-<iframe id="widget" scrolling="no" frameborder="0" width="500" height="274" style="width: 500px; height: 274px;" src="//widgets.jamendo.com/v3/artist/440593?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="></iframe>
+<iframe id="widget" scrolling="no" frameborder="0" width="400" height="333" style="width: 400px; height: 333px;" src="//widgets.jamendo.com/v3/track/1095646?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="> </iframe>
 
 ## Текст песни
 Зачем ты подошёл к камину?  
