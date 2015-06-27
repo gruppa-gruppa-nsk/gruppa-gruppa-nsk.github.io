@@ -65,4 +65,4 @@ CC BY-SA 4.0. Группа "Группа" НСК
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/neEgiy2f0Cg" frameborder="0" allowfullscreen> </iframe>
 
-В видео можно услышать олины дубли слова «есть»
+В видео можно услышать олины дубли слова «есть».
