@@ -5,7 +5,12 @@
          url('/assets/fonts/beer_money.woff') format('woff'),
          url('/assets/fonts/beer_money.ttf') format('truetype');
 }
-
+.body{
+	background:#888;
+}
+.container{
+	background-color:#fff;
+}
 .header{
   font-size: 3em;
   font-family: 'beer_money', Open Sans, Calibri, Candara, Arial, sans-serif;
@@ -16,6 +21,4 @@
 	font-family: 'beer_money', Open Sans, Calibri, Candara, Arial, sans-serif;
 	font-size: 20px;
 }
-.container{
-	background:#888888;
-}
+
