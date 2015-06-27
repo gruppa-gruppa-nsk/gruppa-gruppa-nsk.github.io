@@ -5,10 +5,10 @@
          url('/assets/fonts/beer_money.woff') format('woff'),
          url('/assets/fonts/beer_money.ttf') format('truetype');
 }
-.body{
+body{
 	background-color:#888;
 }
-.row{
+.container{
 	background-color:#fff;
 }
 .header{
