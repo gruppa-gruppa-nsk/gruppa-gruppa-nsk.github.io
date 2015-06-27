@@ -6,7 +6,7 @@
          url('/assets/fonts/beer_money.ttf') format('truetype');
 }
 body{
-	background-color:#222;
+	background-color:#ccc;
 }
 .row{
 	background-color:#fff;
