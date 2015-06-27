@@ -6,9 +6,9 @@
          url('/assets/fonts/beer_money.ttf') format('truetype');
 }
 body{
-	background-color:#888;
+	background-color:#222;
 }
-.container{
+.row{
 	background-color:#fff;
 }
 .header{
