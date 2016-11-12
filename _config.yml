@@ -1,5 +1,5 @@
 name: Группа "Группа"
-highlighter: pygments
+highlighter: false
 permalink: /:categories/:title/
 destination: _site
 pagination: 15
