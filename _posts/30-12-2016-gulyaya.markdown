@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Гуляя"
+description: "четвёртый"
+categories: albums
+name: "\"Гуляя\" — четвёртый электрический сингл"
+---
+
+## Участники  
+### Люди  
+Славелий Роза  
+*Rinon Ninquenon*  
+Эпика Колората
+
+### Нелюди
+- *Ubuntu Studio 14.04*
+- *Ardour 5.5*
+- наборы плагинов *Calf*, *Tap*, *GVST*
+- драм-машина *Hydrogen*
+- VST хост *Carla* с плагином *DrumMic'A* для *Kontakt 5*
+- *Linux Multimedia Studio*
+- *sf2*-бас *Bass Assorted Guitars (1,949KB)*
+- гитарный комбо-усилитель *Marshall Valvestate 8020*
+- самодельный гибридный [комбо-усилитель](http://rinonninqueon.ru/schematics/cabinet_3/)
+- педаль перегруза *[DriveIt!](http://rinonninqueon.ru/schematics/DriveIt_complete/)*
+- компрессор *The Engineer's Thumb Compressor*
+- Noize Gate из какого-то японского журнала
+- микрофон *AKG Perception 120*
+- звуковая карта - *Focusrite Scarlett 2i2*
+- синтезатор *Yamaha PSR-295*
+- гитара - *Aria Pro II SL420*
+- гитара *Jay Turser JT-300*
+- звучки: *Seymour Duncan Distortion Mayhem Set*
+- звучки: *Fokin Pickups Custom*
+- а про струны мы вам ничего не скажем, это уже традиция
+
+## Скачать/Послушать
+- [ВК](https://vk.com/muzgruppa)
+- [Kanjian](https://www.kanjian.com/muzgruppa/music/)
+- WAV на [Google Drive](https://drive.google.com/drive/folders/0B8Pdgd_g-Uk-OEp1bXBTV2RPUTg?usp=sharing)
+- Скоро на Jamendo
+- Скоро во всем магазинах электронной дистрибьюции --- можете поддержать нас денежкой
