@@ -6,6 +6,8 @@ categories: albums
 name: "\"Гуляя\" — четвёртый электрический сингл"
 ---
 
+<iframe id="widget" scrolling="no" frameborder="0" width="400" height="305" style="width: 400px; height: 305px;" src="//widgets.jamendo.com/v3/album/164470?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="></iframe>
+
 ## Участники  
 
 ### Люди  
@@ -33,11 +35,15 @@ name: "\"Гуляя\" — четвёртый электрический синг
 - гитара *Jay Turser JT-300*
 - звучки: *Seymour Duncan Distortion Mayhem Set*
 - звучки: *Fokin Pickups Custom*
+- блок-флейта: *Ellise Soprano German Model 500*
 - а про струны мы вам ничего не скажем, это уже традиция
 
 ## Скачать/Послушать
 - [ВК](https://vk.com/muzgruppa)
 - [Kanjian](https://www.kanjian.com/muzgruppa/music/)
 - WAV на [Google Drive](https://drive.google.com/drive/folders/0B8Pdgd_g-Uk-OEp1bXBTV2RPUTg?usp=sharing)
-- Скоро на Jamendo
-- Скоро во всем магазинах электронной дистрибьюции --- можете поддержать нас денежкой
+- Бесплатно на [Jamendo](https://www.jamendo.com/album/164470/gulyaya)
+- Слушать в [Яндекс Музыка](https://music.yandex.ru/album/4011420)
+- Купить в [iTunes](https://itunes.apple.com/ru/album/gulaa-single/id1190873260)
+- Купить в [Google Music](https://play.google.com/store/music/album/Группа_Группа_Нск_Гуляя?id=B44knbavdl6i5cqkgw2j4lzeo7e&hl=ru)
+- А также в других магазинах электронной дистрибьюции
