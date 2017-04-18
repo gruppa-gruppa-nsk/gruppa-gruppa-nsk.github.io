@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Принцесса ночных дорог|Песни"
+title: "Принцесса ночных дорог | Песни"
 description: "Это песня не про бабушку, это песня про супербабушку"
 categories: songs
-name: "Принцесса ночных дорог|Песни"
+name: "Принцесса ночных дорог | Песни"
 ---
 <iframe id="widget" scrolling="no" frameborder="0" width="400" height="170" style="width: 400px; height: 170;" src="//widgets.jamendo.com/v3/track/1169816?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="> </iframe>
 

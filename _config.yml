@@ -3,8 +3,10 @@ highlighter: false
 permalink: /:categories/:title/
 destination: _site
 pagination: 15
-paginate_path : "/page:num"
+paginate_path: "/page:num"
 encoding: utf-8
 markdown: kramdown
 kramdown:
-  extensions: ["strikethrough", "smart"]
+ input: GFM
+ hard_wrap: false
+ extensions: ["strikethrough", "smart"]
