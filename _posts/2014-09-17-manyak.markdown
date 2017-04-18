@@ -50,7 +50,10 @@ name: "\"Маньяк\" — из сингла Тёплый. Ламповый"
 И вас я развяжу,  
 А после вам скажу: я —  
   
-Ассексуальный маньяк!  
+Ассексуальный маньяк!
+
+## Клип
+<iframe width="560" height="315" src="https://www.youtube.com/embed/74Dg4r71iI8" frameborder="0" allowfullscreen></iframe>
 
 ## Ссылки:
 * Фонограмма: <a titile="скачать с GitHub" href="https://github.com/gruppa-gruppa-nsk/sources/raw/master/f5.0/manyak.mp3">mp3</a>
