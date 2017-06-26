@@ -2,8 +2,16 @@
 layout: default
 ---
 <h1>{{ page.name }}
-{% if page.album %}
-из {{ page.album }}
+{% if post.albums %}
+			{% for alb in post.albums%}
+				{% if alb.album %}
+					из {{ alb.album }}
+				{% else %}
+				{% endif %}
+				{% if forloop.last == false %}
+				,&nbsp
+				{% endif %}
+			{% endfor %}
 {% else %}
 {% endif %}
 </h1>
