@@ -6,7 +6,7 @@ date: 2014-8-7 17:30:53
 categories: songs
 name: "Не суй руку в огонь"
 album: "Тёплый. Ламповый"
-album_url: "_posts/2013-12-03-tyoplyy-lampovyy"
+album_url: "/albums/tyoplyy-lampovyy/"
 length: "4:12"
 download: "http://www.jamendo.com/track/1095646"
 ---
