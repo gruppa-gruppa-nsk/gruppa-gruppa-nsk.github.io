@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: song
 title: "Ловля покемонов | Гуляя"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "\"Ловля покемонов\" — из сингла \"Гуляя\""
+name: "Ловля покемонов"
 date: 2017-04-18 16:04:00
+length: "2:32"
+download: ""
+albums:
+ - album: "Гуляя"
+   album_url: "/albums/gulyaya/"
 ---
 
 

@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: song
 title: "Монеты | Гуляя"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "\"Монеты\" — из сингла \"Гуляя\""
+name: "Монеты"
 date: 2017-04-18 16:01:00
+length: "4:06"
+download: ""
+albums:
+ - album: "Гуляя"
+   album_url: "/albums/gulyaya/"
 ---
 
 
