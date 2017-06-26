@@ -26,9 +26,12 @@ title: Альбомы Группы
 			</div>
 		</div>
 		{% assign counter = counter | plus: 1 %}
-		{% if modul == 2 or forloop.last %}
+		{% if modul == 2 %}
 			</div>
 			{% assign end_div = true %}
 		{% endif %}
+	{% endif %}
+	{% if forloop.last and !end_div %}
+		</div>
 	{% endif %}
 {% endfor %}
