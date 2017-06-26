@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: album
 title: "Тленобезысходность"
 description: "второй"
 date: 2014-4-29 12:30:53

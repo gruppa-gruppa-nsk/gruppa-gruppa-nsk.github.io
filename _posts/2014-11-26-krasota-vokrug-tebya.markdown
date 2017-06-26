@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: album
 title: "Красота вокруг тебя"
 description: "третий"
 categories: albums

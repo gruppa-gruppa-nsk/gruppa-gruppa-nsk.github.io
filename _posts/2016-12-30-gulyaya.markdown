@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: album
 title: "Гуляя"
 description: "четвёртый"
 categories: albums
