@@ -5,27 +5,33 @@ title: Альбомы Группы
 <h1>Альбомы</h1>
 
 {% assign counter = 0 %}
+{% assign end_div = false %}
 {% for post in site.posts %}
-	{% assign modul = counter | modulo: 3 %}
-	{% if modul == 0 or forloop.first %}
-		<div class="row">
-	{% endif %}
 	{% if post.categories contains 'albums' %}
-	<div class="col-md-4">
-		<div class="img-thumbnail img-rounded"> 
-			<center>
-			<div id="counter-{{ counter }}-modulo-{{ modulo }}"/>
-			<a href="{{ post.url }}">
-				<img src="/img/albums/preview/{{ post.image }}" width="200px"/>
-				{{ post.date | date_to_string }}<br>
-			</center>
-				{{ post.title }}
-			</a>
+		{% assign modul = counter | modulo: 3 %}
+		{% if modul == 0 or forloop.first %}
+			<div class="row">
+			{% assign end_div = false %}
+		{% endif %}
+		<div class="col-md-4">
+			<div class="img-thumbnail img-rounded"> 
+				<center>
+				<div id="counter-{{ counter }}-modul-{{ modul }}"/>
+				<a href="{{ post.url }}">
+					<img src="/img/albums/preview/{{ post.image }}" width="200px"/>
+					{{ post.date | date_to_string }}<br>
+				</center>
+					{{ post.title }}
+				</a>
+			</div>
 		</div>
-	</div>
-	{% assign counter = counter | plus: 1 %}
+		{% assign counter = counter | plus: 1 %}
+		{% if modul == 2 or forloop.last %}
+			</div>
+			{% assign end_div = true %}
+		{% endif %}
 	{% endif %}
-	{% if modul == 2 or forloop.last %}
+	{% if forloop.last and !end_div %}
 		</div>
 	{% endif %}
 {% endfor %}
