@@ -18,9 +18,17 @@ title: Песни группы
     	<tr>
 		<td>{{ counter }}</td>
 		<td><a href="{{ post.url }}">{{ post.name }}</a></td>
-		<td>{{ post.album }}</td>
 		<td>
-		{% if post.download%}
+		{% if post.album and post.album_url%}
+			<a href="{{ site.baseurl }}{% post_url post.album_url %}">
+				{{ post.album }}
+			</a>
+		{% else %}
+			-
+		{% endif %}
+		</td>
+		<td>
+		{% if post.download %}
 			<a href="{{ post.download }}">тыц</a>
 		{% else %}
 			-
