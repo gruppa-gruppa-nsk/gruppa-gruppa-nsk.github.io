@@ -4,26 +4,22 @@ title: Песни группы
 ---
 <h1>Альбомы</h1>
 
-<div class="row">
 {% assign counter = 0 %}
 {% for post in site.posts %}
+	
 	{% capture modulo %}
-	{{ counter | mod:4 }}
+	{{ counter | mod:3 }}
 	{% endcapture %}
+	
 	{% if modulo == '0' or forloop.first %}
 		<div class="row">
 	{% endif %}
 	
-	{% if counter == 4 %}
-		</div>
-		<div class="row">
-	{% endif %}
-	
 	{% if post.categories contains 'albums' %}
-		<div class="col-md-3">
+		<div class="col-md-4">
 			<div class="img-thumbnail"> 
 				<a href="{{ post.url }}">
-					<img src="/img/albums/preview/{{ post.image }}" width="256px"/>
+					<img src="/img/albums/preview/{{ post.image }}" width="200px"/>
 					{{ post.date | date_to_string }}<br>
 					{{ post.title }}
 				</a>
@@ -35,4 +31,3 @@ title: Песни группы
 		</div>
 	{% endif %}
 {% endfor %}
-</div>
