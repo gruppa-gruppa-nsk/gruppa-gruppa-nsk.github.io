@@ -6,11 +6,12 @@ title: Песни группы
 
 {% assign counter = 0 %}
 {% for post in site.posts %}
-	
-	{% if {{ counter | mod:3 }} == '0' or forloop.first %}
+	{% capture modulo %}
+	{{ counter | mod:3 }}
+	{% endcapture %}
+	{% if modulo == '0' or forloop.first %}
 		<div class="row">
 	{% endif %}
-	
 	{% if post.categories contains 'albums' %}
 		<div class="col-md-4">
 			<div class="img-thumbnail"> 
