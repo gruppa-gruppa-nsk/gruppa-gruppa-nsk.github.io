@@ -11,9 +11,10 @@ title: Песни группы
 		{% if counter == 4 %}
 			</div>
 			<div class="row">
+			{% assign counter = 1}
 		{% endif %}
 		<div class="col-md-3">
-			<div  class="img-thumbnail"> 
+			<div class="img-thumbnail"> 
 				<a href="{{ post.url }}">
 					<img src="/img/albums/preview/{{ post.image }}" width="256px"/>
 					{{ post.date | date_to_string }}<br>
@@ -21,6 +22,7 @@ title: Песни группы
 				</a>
 			</div>
 		</div>
+		{% increment counter %}
 	{% endif %}
 {% endfor %}
 </div>
