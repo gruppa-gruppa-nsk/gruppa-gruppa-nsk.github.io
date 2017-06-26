@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: song
 title: "Пост-рок | Тленобезысходность"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "\"Пост-рок\" — из сингла \"Тленобезысходность\""
+name: "Пост-рок"
 date: 2017-04-18 15:54:00
+length: "4:08"
+download: ""
+albums:
+ - album: "Тленобезысходность"
+   album_url: "/albums/tlenobezyhodnost/"
 ---
 
 

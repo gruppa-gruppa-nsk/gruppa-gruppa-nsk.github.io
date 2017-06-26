@@ -4,7 +4,12 @@ title: "Зачем жить | Тёплый. Ламповый"
 description: "Текст песни, аккорды и скачать"
 date: 2014-9-18 17:30:53
 categories: songs
-name: "\"Зачем Жить\" — из сингла Тёплый. Ламповый"
+name: "Зачем Жить"
+length: "4:13"
+download: ""
+albums:
+ - album: "Тёплый. Ламповый"
+   album_url: "/albums/tyoplyy-lampovyy/"
 ---
 
 Песня с сингла <a target="blank" href="http://gruppa.utkorose.ru/albums/tyoplyy-lampovyy/">"Тёплый. Ламповый"</a>

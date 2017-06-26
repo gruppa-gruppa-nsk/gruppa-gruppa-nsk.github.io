@@ -1,9 +1,14 @@
 ---
-layout: post
+layout: song
 title: "По-человечески | Тленобезысходность"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "\"По-человечески\" — из сингла \"Тленобезысходность\""
+name: "По-человечески"
+length: "4:19"
+download: ""
+albums:
+ - album: "Тленобезысходность"
+   album_url: "/albums/tlenobezyhodnost/"
 ---
 
 

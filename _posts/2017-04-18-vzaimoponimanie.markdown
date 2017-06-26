@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: song
 title: "Взаимопонимание | Тленобезысходность"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "\"Взаимопонимание\" — из сингла \"Тленобезысходность\""
+name: "Взаимопонимание"
 date: 2017-04-18 15:43:00
+length: "4:13"
+download: ""
+albums:
+ - album: "Тленобезысходность"
+   album_url: "/albums/tlenobezyhodnost/"
 ---
 
 

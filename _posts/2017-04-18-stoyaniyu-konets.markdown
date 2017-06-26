@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: song
 title: "Стоянию конец | Тленобезысходность"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "\"Стоянию конец\" — из сингла \"Тленобезысходность\""
+name: "Стоянию конец"
 date: 2017-04-18 15:52:00
+length: "3:30"
+download: ""
+albums:
+ - album: "Тленобезысходность"
+   album_url: "/albums/tlenobezyhodnost/"
 ---
 
 
