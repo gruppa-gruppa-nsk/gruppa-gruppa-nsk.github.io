@@ -3,12 +3,29 @@ layout: default
 title: Песни группы
 ---
 <h1>Песни Песни</h1>
+<table class="table table-hover">
+<tr>
+	<th>#</th>
+	<th>Название</th>
+	<th>Альбом</th>
+	<th>Jamendo</th>
+	<th>Длительность</th>
+</tr>
+{% assign counter = 1 %}
 {% assign items = site.posts | sort: 'title' %}
 {% for post in items %}
 	{% if post.categories contains 'songs' %}
-    	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    	<tr>
+		<td>{{ counter }}</td>
+		<td><a href="{{ post.url }}">{{ post.title }}</a></td>
+		<td>{{ post.album }}</td>
+		<td>{{ post.url }}</td>
+		<td>{{ post.length }}</td>
+		</tr>
+		{% assign counter = counter | plus: 1 %}
 	{% endif %}
 {% endfor %}
+</table>
 <br>
 <hr>
 <br>

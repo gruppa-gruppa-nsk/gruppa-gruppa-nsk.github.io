@@ -5,6 +5,8 @@ description: "Не Суй Руку В Огонь"
 date: 2014-8-7 17:30:53
 categories: songs
 name: "\"Не Суй Руку В Огонь\" — из сингла Тёплый. Ламповый"
+album: "Тёплый. Ламповый"
+length: "4:12"
 ---
 
 Песня с сингла <a target="blank" href="http://gruppa.utkorose.ru/albums/tyoplyy-lampovyy/">"Тёплый. Ламповый"</a>
