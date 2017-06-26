@@ -5,13 +5,20 @@ title: Песни группы
 <h1>Альбомы</h1>
 
 <div class="row">
-{% assign counter = 1}
+{% assign counter = 0 %}
 {% for post in site.posts %}
+	{% capture modulo %}
+	{{ counter | mod:4 }}
+	{% endcapture %}
+	{% if modulo == '0' or forloop.first %}
+		<div class="row">
+	{% endif %}
+	
 	{% if counter == 4 %}
 		</div>
 		<div class="row">
-		{% assign counter = 1}
 	{% endif %}
+	
 	{% if post.categories contains 'albums' %}
 		<div class="col-md-3">
 			<div class="img-thumbnail"> 
@@ -23,6 +30,9 @@ title: Песни группы
 			</div>
 		</div>
 		{% increment counter %}
+	{% endif %}
+	{% if modulo == '2' or forloop.last %}
+		</div>
 	{% endif %}
 {% endfor %}
 </div>
