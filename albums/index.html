@@ -7,11 +7,7 @@ title: Песни группы
 {% assign counter = 0 %}
 {% for post in site.posts %}
 	
-	{% capture modulo %}
-	{{ counter | mod:3 }}
-	{% endcapture %}
-	
-	{% if modulo == '0' or forloop.first %}
+	{% if {{ counter | mod:3 }} == '0' or forloop.first %}
 		<div class="row">
 	{% endif %}
 	
