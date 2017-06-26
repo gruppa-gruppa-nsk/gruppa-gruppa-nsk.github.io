@@ -17,9 +17,15 @@ title: Песни группы
 	{% if post.categories contains 'songs' %}
     	<tr>
 		<td>{{ counter }}</td>
-		<td><a href="{{ post.url }}">{{ post.title }}</a></td>
+		<td><a href="{{ post.url }}">{{ post.name }}</a></td>
 		<td>{{ post.album }}</td>
-		<td>{{ post.download }}</td>
+		<td>
+		{% if post.download%}
+			<a href="{{ post.download }}">тыц</a>
+		{% else %}
+			-
+		{% endif %}
+		</td>
 		<td>{{ post.length }}</td>
 		</tr>
 		{% assign counter = counter | plus: 1 %}
