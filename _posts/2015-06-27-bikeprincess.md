@@ -1,9 +1,14 @@
 ---
-layout: post
+layout: song
 title: "Принцесса ночных дорог | Красота вокруг тебя"
 description: "Это песня не про бабушку, это песня про супербабушку"
 categories: songs
-name: "\"Принцесса ночных дорог\" — из сингла \"Красота вокруг тебя\""
+name: "Принцесса ночных дорог"
+length: "4:21"
+download: ""
+albums:
+ - album: "Красота вокруг тебя"
+   album_url: "/albums/krasota-vokrug-tebya/"
 ---
 <iframe id="widget" scrolling="no" frameborder="0" width="400" height="170" style="width: 400px; height: 170;" src="//widgets.jamendo.com/v3/track/1169816?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="> </iframe>
 

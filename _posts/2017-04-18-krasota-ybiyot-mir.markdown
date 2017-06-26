@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: song
 title: "Красота убьёт мир | Красота вокруг тебя"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "\"Красота убьёт мир\" — из сингла \"Красота вокруг тебя\""
+name: "Красота убьёт мир"
 date: 2017-04-18 15:58:00
+length: "4:38"
+download: ""
+albums:
+ - album: "Красота вокруг тебя"
+   album_url: "/albums/krasota-vokrug-tebya/"
 ---
 
 
