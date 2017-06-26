@@ -14,7 +14,7 @@ title: Альбомы Группы
 {% endif %}
 {% if post.categories contains 'albums' %}
 	<div class="col-md-4">
-		<div class="img-thumbnail"> 
+		<div class="img-thumbnail img-rounded"> 
 			<a href="{{ post.url }}">
 				<img src="/img/albums/preview/{{ post.image }}" width="200px"/>
 				{{ post.date | date_to_string }}<br>
