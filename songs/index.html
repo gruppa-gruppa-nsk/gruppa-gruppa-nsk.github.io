@@ -3,8 +3,8 @@ layout: default
 title: Песни группы
 ---
 <h1>Песни Песни</h1>
-
-{% for post in site.posts | sort: 'title' %}
+{% assign items = site.posts | sort: 'title' %}
+{% for post in items %}
 	{% if post.categories contains 'songs' %}
     	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endif %}
