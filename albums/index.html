@@ -6,11 +6,11 @@ title: Альбомы Группы
 
 {% assign counter = 0 %}
 {% for post in site.posts %}
-{% assign modulo = counter | mod:3%}
-{% if modulo == 0 or forloop.first %}
-	<div class="row">
-{% endif %}
-{% if post.categories contains 'albums' %}
+	{% assign modul = counter | modulo: 3 %}
+	{% if modul == 0 or forloop.first %}
+		<div class="row">
+	{% endif %}
+	{% if post.categories contains 'albums' %}
 	<div class="col-md-4">
 		<div class="img-thumbnail img-rounded"> 
 			<center>
@@ -24,8 +24,8 @@ title: Альбомы Группы
 		</div>
 	</div>
 	{% assign counter = counter | plus: 1 %}
-{% endif %}
-{% if modulo == 2 or forloop.last %}
-	</div>
-{% endif %}
+	{% endif %}
+	{% if modul == 2 or forloop.last %}
+		</div>
+	{% endif %}
 {% endfor %}
