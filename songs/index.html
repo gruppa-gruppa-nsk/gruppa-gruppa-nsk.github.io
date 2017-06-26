@@ -2,11 +2,11 @@
 layout: default
 title: Песни группы
 ---
-<h1>Песни Группы</h1>
+<h1>Песни Песни</h1>
 
-{% for post in site.posts %}
+{% for post in site.posts | sort: 'title' %}
 	{% if post.categories contains 'songs' %}
-    	<li><span>{{ post.date | date_to_string }}</span> &raquo <a href="{{ post.url }}">{{ post.title }}</a></li>
+    	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endif %}
 {% endfor %}
 <br>
