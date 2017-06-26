@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Песни группы
+title: Альбомы Группы
 ---
 <h1>Альбомы</h1>
 
@@ -22,7 +22,7 @@ title: Песни группы
 				</a>
 			</div>
 		</div>
-		{% increment counter %}
+		{% assign count = count | plus: 1 %}
 	{% endif %}
 	{% if modulo == '2' or forloop.last %}
 		</div>
