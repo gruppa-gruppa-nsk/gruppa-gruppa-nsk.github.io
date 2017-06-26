@@ -35,7 +35,7 @@ title: Песни группы
 		{% endif %}
 		</td>
 		<td>
-		{% if post.download %}
+		{% if post.download and post.download != ''%}
 			<a href="{{ post.download }}">тыц</a>
 		{% else %}
 			-
