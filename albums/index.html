@@ -5,16 +5,21 @@ title: Песни группы
 <h1>Альбомы</h1>
 
 <div class="row">
+{% assign counter = 1}
 {% for post in site.posts %}
 	{% if post.categories contains 'albums' %}
-		<div class="col-md-2">
+		{% if counter == 4 %}
+			</div>
+			<div class="row">
+		{% endif %}
+		<div class="col-md-3">
 			<div  class="img-thumbnail"> 
 				<a href="{{ post.url }}">
-					<img src="/img/albums/{{ post.image }}" width="256px"/>
+					<img src="/img/albums/preview/{{ post.image }}" width="256px"/>
 					{{ post.date | date_to_string }}<br>
 					{{ post.title }}
 				</a>
-			<div>
+			</div>
 		</div>
 	{% endif %}
 {% endfor %}
