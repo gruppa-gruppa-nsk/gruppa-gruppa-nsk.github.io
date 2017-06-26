@@ -6,10 +6,8 @@ title: Альбомы Группы
 
 {% assign counter = 0 %}
 {% for post in site.posts %}
-{% capture modulo %}
-{{ counter | mod:3 }}
-{% endcapture %}
-{% if modulo == '0' or forloop.first %}
+{% assign modulo = counter | mod:3%}
+{% if modulo == 0 or forloop.first %}
 	<div class="row">
 {% endif %}
 {% if post.categories contains 'albums' %}
@@ -27,7 +25,7 @@ title: Альбомы Группы
 	</div>
 	{% assign counter = counter | plus: 1 %}
 {% endif %}
-{% if modulo == '2' or forloop.last %}
+{% if modulo == 2 or forloop.last %}
 	</div>
 {% endif %}
 {% endfor %}
