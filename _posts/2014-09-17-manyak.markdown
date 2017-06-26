@@ -1,10 +1,17 @@
 ---
 published: true
-layout: post
+layout: song
 title: "Маньяк | Тёплый. Ламповый"
 description: Не Суй Руку В Огонь
 categories: songs
-name: "\"Маньяк\" — из сингла Тёплый. Ламповый"
+name: "Маньяк"
+length: "5:13"
+download: ""
+albums:
+ - album: "Тёплый. Ламповый"
+   album_url: "/albums/tyoplyy-lampovyy/"
+ - album: "Гуляя"
+   album_url: "/albums/gulyaya/"
 ---
 
 Песня с сингла <a target="blank" href="http://gruppa.utkorose.ru/albums/tyoplyy-lampovyy/">"Тёплый. Ламповый"</a>
