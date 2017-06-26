@@ -3,17 +3,15 @@ layout: default
 ---
 <h1>{{ page.name }}
 {% if post.albums %}
-из&nbsp;
-			{% for alb in post.albums%}
-				{% if alb.album %}
-					{{ alb.album }}
-				{% else %}
-				{% endif %}
-				{% if forloop.last == false %}
-				,&nbsp;
-				{% endif %}
-			{% endfor %}
-{% else %}
+	из&nbsp;
+	{% for alb in post.albums %}
+		{% if alb.album %}
+			{{ alb.album }}
+		{% endif %}
+		{% if forloop.last == false %}
+			,&nbsp;
+		{% endif %}
+	{% endfor %}
 {% endif %}
 </h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
