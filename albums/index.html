@@ -7,12 +7,12 @@ title: Песни группы
 <div class="row">
 {% assign counter = 1}
 {% for post in site.posts %}
+	{% if counter == 4 %}
+		</div>
+		<div class="row">
+		{% assign counter = 1}
+	{% endif %}
 	{% if post.categories contains 'albums' %}
-		{% if counter == 4 %}
-			</div>
-			<div class="row">
-			{% assign counter = 1}
-		{% endif %}
 		<div class="col-md-3">
 			<div class="img-thumbnail"> 
 				<a href="{{ post.url }}">
