@@ -16,7 +16,7 @@ title: Альбомы Группы
 		<div class="col-md-4">
 			<div class="img-thumbnail img-rounded"> 
 				<center>
-				<div id="counter-{{ counter }}-modul-{{ modul }}"/>
+				<div id="counter-{{ counter }}-modul-{{ modul }}-{{ end_div }}"/>
 				<a href="{{ post.url }}">
 					<img src="/img/albums/preview/{{ post.image }}" width="200px"/>
 					{{ post.date | date_to_string }}<br>
@@ -30,8 +30,5 @@ title: Альбомы Группы
 			</div>
 			{% assign end_div = true %}
 		{% endif %}
-	{% endif %}
-	{% if forloop.last and !end_div %}
-		</div>
 	{% endif %}
 {% endfor %}
