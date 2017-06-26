@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: song
 title: "Чпокай-чпокай | Песни"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "Чпокай-чпокай | Песни"
+name: "Чпокай-чпокай"
 date: 2017-04-18 16:37:00
 ---
 

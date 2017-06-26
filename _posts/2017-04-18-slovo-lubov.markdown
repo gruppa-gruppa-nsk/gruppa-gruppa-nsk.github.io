@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: song
 title: "Слово \"Любовь\" | Песни"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "Слово \"Любовь\" | Песни"
+name: "Слово \"Любовь\""
 date: 2017-04-18 16:43:00
 ---
 

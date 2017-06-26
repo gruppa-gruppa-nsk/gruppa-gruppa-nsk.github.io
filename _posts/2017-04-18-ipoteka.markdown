@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: song
 title: "Ипотека | Песни"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "Ипотека | Песни"
+name: "Ипотека"
 date: 2017-04-18 16:41:00
 ---
 

@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: song
 title: "Интернет | Песни"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "Интернет | Песни"
+name: "Интернет"
 date: 2017-04-18 16:57:00
+length: "3:55"
 ---
 
 
