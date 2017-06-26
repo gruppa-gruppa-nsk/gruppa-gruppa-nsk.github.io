@@ -6,25 +6,25 @@ title: Альбомы Группы
 
 {% assign counter = 0 %}
 {% for post in site.posts %}
-	{% capture modulo %}
-	{{ counter | mod:3 }}
-	{% endcapture %}
-	{% if modulo == '0' or forloop.first %}
-		<div class="row">
-	{% endif %}
-	{% if post.categories contains 'albums' %}
-		<div class="col-md-4">
-			<div class="img-thumbnail"> 
-				<a href="{{ post.url }}">
-					<img src="/img/albums/preview/{{ post.image }}" width="200px"/>
-					{{ post.date | date_to_string }}<br>
-					{{ post.title }}
-				</a>
-			</div>
+{% capture modulo %}
+{{ counter | mod:3 }}
+{% endcapture %}
+{% if modulo == '0' or forloop.first %}
+	<div class="row">
+{% endif %}
+{% if post.categories contains 'albums' %}
+	<div class="col-md-4">
+		<div class="img-thumbnail"> 
+			<a href="{{ post.url }}">
+				<img src="/img/albums/preview/{{ post.image }}" width="200px"/>
+				{{ post.date | date_to_string }}<br>
+				{{ post.title }}
+			</a>
 		</div>
-		{% assign count = count | plus: 1 %}
-	{% endif %}
-	{% if modulo == '2' or forloop.last %}
-		</div>
-	{% endif %}
+	</div>
+	{% assign counter = counter | plus: 1 %}
+{% endif %}
+{% if modulo == '2' or forloop.last %}
+	</div>
+{% endif %}
 {% endfor %}
