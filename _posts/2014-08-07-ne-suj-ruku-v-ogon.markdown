@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: song
 title: "Не Суй Руку В Огонь | Тёплый. Ламповый"
 description: "Не Суй Руку В Огонь"
 date: 2014-8-7 17:30:53
