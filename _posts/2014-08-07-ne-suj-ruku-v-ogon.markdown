@@ -5,10 +5,11 @@ description: "Не Суй Руку В Огонь"
 date: 2014-8-7 17:30:53
 categories: songs
 name: "Не суй руку в огонь"
-album: "Тёплый. Ламповый"
-album_url: "/albums/tyoplyy-lampovyy/"
 length: "4:12"
 download: "http://www.jamendo.com/track/1095646"
+albums:
+ - album: "Тёплый. Ламповый"
+   album_url: "/albums/tyoplyy-lampovyy/"
 ---
 
 Песня с сингла <a target="blank" href="http://gruppa.utkorose.ru/albums/tyoplyy-lampovyy/">"Тёплый. Ламповый"</a>
