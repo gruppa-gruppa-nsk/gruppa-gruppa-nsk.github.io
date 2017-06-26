@@ -2,12 +2,10 @@
 layout: default
 ---
 <h1>{{ page.name }}
-{% if post.albums %}
+{% if page.albums %}
 	из&nbsp;
-	{% for alb in post.albums %}
-		{% if alb.album %}
-			{{ alb.album }}
-		{% endif %}
+	{% for alb in page.albums %}
+		{{ alb.album }}
 		{% if forloop.last == false %}
 			,&nbsp;
 		{% endif %}
