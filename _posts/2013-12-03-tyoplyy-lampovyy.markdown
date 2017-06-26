@@ -5,6 +5,7 @@ description: "первый"
 date: 2013-12-2 17:30:53
 categories: albums
 name: "\"Тёплый. Ламповый\" — первый электрический сингл"
+image: "teplyj_lampovyj-klet_gr.png"
 ---
 
 Вот и вышел долгожданный электрический сингл.  

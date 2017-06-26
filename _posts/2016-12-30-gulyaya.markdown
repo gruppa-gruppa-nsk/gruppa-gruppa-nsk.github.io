@@ -4,6 +4,7 @@ title: "Гуляя"
 description: "четвёртый"
 categories: albums
 name: "\"Гуляя\" — четвёртый электрический сингл"
+image: "gulyaya.png"
 ---
 
 <iframe id="widget" scrolling="no" frameborder="0" width="400" height="305" style="width: 400px; height: 305px;" src="//widgets.jamendo.com/v3/album/164470?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="></iframe>
