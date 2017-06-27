@@ -4,15 +4,6 @@ title: Песни группы
 ---
 <script>
       $(function() { 
-        // Setup the player
-        var a = audiojs.createAll();
-        
-        // Load in the first track
-        var audio = a[0];
-        first = $('.gruppa-media-url').attr('data-src');
-        $('.gruppa-media-url').first().addClass('playing');
-        audio.load(first);
-
         // Load in a track on click
         $('.gruppa-media-url').click(function(e)
 		{
@@ -27,7 +18,7 @@ title: Песни группы
 	
 <h1>Песни Песни</h1>
 <h3 id="current-song-id"></h3>
-<audio preload="none"/>
+<audio preload="none"></audio>
 <table class="table table-hover">
 <tr>
 	<th>#</th>
