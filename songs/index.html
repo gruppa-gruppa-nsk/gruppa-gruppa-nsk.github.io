@@ -15,7 +15,7 @@ title: Песни группы
           $(this).addClass('playing').siblings().removeClass('playing');
           audio.load($(this).attr('data-src'));
           audio.play();
-		  var cur = "Сейчас играет:\"" + $(this).attr("alt") + "\"";
+		  var cur = "Сейчас играет: \"" + $(this).attr("alt") + "\"";
 		  $("#current-song-id").html(cur);
         });
 	});

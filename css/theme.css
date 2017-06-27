@@ -33,13 +33,13 @@ div.gruppa-media-url
 	color: #aaa
 }
 
-div.playing
+.gruppa-media-url.playing
 {
 	color: #000;
 	text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3);
 }
 
-div.playing:before
+.gruppa-media-url.playing:before
 {
 	content: '>';
 	width: 14px;
