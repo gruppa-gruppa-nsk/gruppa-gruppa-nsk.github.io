@@ -6,6 +6,12 @@ description: Не Суй Руку В Огонь
 categories: songs
 name: "Маньяк"
 length: "5:13"
+download:
+ - name: 2013
+   url: "/audio/01_tyoplyy-lampovyy/02_manyak.mp3"
+ - name: 2017
+   url: "/audio/04_gulyaya/01_manyak.mp3"
+   
 download: ""
 albums:
  - album: "Тёплый. Ламповый"

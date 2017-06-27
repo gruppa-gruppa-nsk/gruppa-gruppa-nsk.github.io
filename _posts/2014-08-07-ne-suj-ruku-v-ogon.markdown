@@ -7,7 +7,7 @@ categories: songs
 name: "Не суй руку в огонь"
 length: "4:12"
 download:
- - name: mp3
+ - name: 2013
    url: "/audio/01_tyoplyy-lampovyy/01_ne-suj-ruku-v-ogon.mp3"
 
 albums:
