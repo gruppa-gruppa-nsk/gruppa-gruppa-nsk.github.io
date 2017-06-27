@@ -23,12 +23,6 @@ layout: default
 			<div class="panel-body">
 				<center>
 					<audio preload="none"></audio>
-				</center>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="row">
 {% if page.download and page.download != '' %}
 	<table class="table table-hover">
 	<tr>
@@ -62,8 +56,12 @@ layout: default
         });
 	});
     </script>
-</div>
 {% endif %}
+				</center>
+			</div>
+		</div>
+	</div>
+</div>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
