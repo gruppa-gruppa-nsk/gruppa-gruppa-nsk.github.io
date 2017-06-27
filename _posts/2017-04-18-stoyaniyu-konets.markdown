@@ -6,7 +6,10 @@ categories: songs
 name: "Стоянию конец"
 date: 2017-04-18 15:52:00
 length: "3:30"
-download: ""
+download:
+ - name: 2014
+   url: "/audio/02_tlenobezyhodnost/03_stoyaniyu-konets.mp3"
+   
 albums:
  - album: "Тленобезысходность"
    album_url: "/albums/tlenobezyhodnost/"

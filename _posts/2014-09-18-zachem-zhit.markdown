@@ -6,7 +6,10 @@ date: 2014-9-18 17:30:53
 categories: songs
 name: "Зачем Жить"
 length: "4:13"
-download: ""
+download:
+ - name: 2013
+   url: "/audio/01_tyoplyy-lampovyy/03_zachem-zhit.mp3"
+   
 albums:
  - album: "Тёплый. Ламповый"
    album_url: "/albums/tyoplyy-lampovyy/"

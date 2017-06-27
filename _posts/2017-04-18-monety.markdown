@@ -6,7 +6,10 @@ categories: songs
 name: "Монеты"
 date: 2017-04-18 16:01:00
 length: "4:06"
-download: ""
+download:
+ - name: 2016
+   url: "/audio/04_gulyaya/02_monety.mp3"
+   
 albums:
  - album: "Гуляя"
    album_url: "/albums/gulyaya/"

@@ -6,7 +6,10 @@ categories: songs
 name: "Ловля покемонов"
 date: 2017-04-18 16:04:00
 length: "2:32"
-download: ""
+download:
+ - name: 2016
+   url: "/audio/04_gulyaya/03_pokemon.mp3"
+  
 albums:
  - album: "Гуляя"
    album_url: "/albums/gulyaya/"

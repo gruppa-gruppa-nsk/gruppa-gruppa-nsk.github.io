@@ -5,7 +5,10 @@ description: "Это песня не про бабушку, это песня п
 categories: songs
 name: "Принцесса ночных дорог"
 length: "4:21"
-download: ""
+download:
+ - name: 2014
+   url: "/audio/03_krasota-vokrug-tebya/03_bikeprincess.mp3"
+   
 albums:
  - album: "Красота вокруг тебя"
    album_url: "/albums/krasota-vokrug-tebya/"

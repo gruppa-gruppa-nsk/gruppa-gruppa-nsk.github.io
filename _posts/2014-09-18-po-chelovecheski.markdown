@@ -5,7 +5,10 @@ description: "Текст песни, аккорды и скачать"
 categories: songs
 name: "По-человечески"
 length: "4:19"
-download: ""
+download:
+ - name: 2014
+   url: "/audio/02_tlenobezyhodnost/02_po-chelovecheski.mp3"
+   
 albums:
  - album: "Тленобезысходность"
    album_url: "/albums/tlenobezyhodnost/"

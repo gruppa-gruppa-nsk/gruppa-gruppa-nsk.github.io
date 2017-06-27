@@ -6,7 +6,10 @@ categories: songs
 name: "Взаимопонимание"
 date: 2017-04-18 15:43:00
 length: "4:13"
-download: ""
+download:
+ - name: 2014
+   url: "/audio/02_tlenobezyhodnost/01_vzaimoponimanie.mp3"
+   
 albums:
  - album: "Тленобезысходность"
    album_url: "/albums/tlenobezyhodnost/"

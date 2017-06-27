@@ -6,7 +6,10 @@ categories: songs
 name: "Пост-рок"
 date: 2017-04-18 15:54:00
 length: "4:08"
-download: ""
+download:
+ - name: 2014
+   url: "/audio/02_tlenobezyhodnost/04_post-rock_bonus.mp3"
+   
 albums:
  - album: "Тленобезысходность"
    album_url: "/albums/tlenobezyhodnost/"

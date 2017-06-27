@@ -6,7 +6,10 @@ categories: songs
 name: "Красота убьёт мир"
 date: 2017-04-18 15:58:00
 length: "4:38"
-download: ""
+download:
+ - name: 2014
+   url: "/audio/03_krasota-vokrug-tebya/02_krasota-ybiyot-mir.mp3"
+
 albums:
  - album: "Красота вокруг тебя"
    album_url: "/albums/krasota-vokrug-tebya/"
