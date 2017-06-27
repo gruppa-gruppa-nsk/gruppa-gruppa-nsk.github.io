@@ -3,10 +3,13 @@ layout: default
 title: Песни группы
 ---
 <script>
-	audiojs.events.ready(function(){var as = audiojs.createAll();});
-        // Load in a track on click
 	$(document).ready(function()
 	{
+		audiojs.events.ready(function()
+		{
+			var as = audiojs.createAll();
+		});
+		
         $('div.gruppa-media-url').click(function(e)
 		{
 		  console.log("click");
