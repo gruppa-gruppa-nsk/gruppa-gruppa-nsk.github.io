@@ -5,6 +5,8 @@ title: Песни группы
 <script>
 	audiojs.events.ready(function(){var as = audiojs.createAll();});
         // Load in a track on click
+	$(document).ready(function()
+	{
         $('div.gruppa-media-url').click(function(e)
 		{
 		  console.log("click");
@@ -15,6 +17,7 @@ title: Песни группы
 		  var cur = "Сейчас играет:\"" + $(this).attr("alt") + "\"";
 		  $("#current-song-id").html(cur);
         });
+	}
     </script>
 	
 <h1>Песни Песни</h1>
