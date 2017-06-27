@@ -5,8 +5,9 @@ title: Песни группы
 <script>
 	audiojs.events.ready(function(){var as = audiojs.createAll();});
         // Load in a track on click
-        $('.gruppa-media-url').click(function(e)
+        $('a.gruppa-media-url').click(function(e)
 		{
+		  console.log("click");
           e.preventDefault();
           $(this).addClass('playing').siblings().removeClass('playing');
           audio.load($(this).attr('data-src'));
