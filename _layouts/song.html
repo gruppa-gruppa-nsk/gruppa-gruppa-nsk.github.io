@@ -27,7 +27,7 @@ layout: default
 {% if page.download and page.download != '' %}
 	<table class="table table-hover">
 	<tr>
-	<td>Версии:</td>
+	<th scope="row">Версии:</th>
 	{% for dnl in page.download %}
 		<td>
 		<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
