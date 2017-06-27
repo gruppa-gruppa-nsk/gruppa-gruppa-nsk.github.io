@@ -11,8 +11,7 @@ download:
    url: "/audio/01_tyoplyy-lampovyy/02_manyak.mp3"
  - name: 2017
    url: "/audio/04_gulyaya/01_manyak.mp3"
-   
-download: ""
+
 albums:
  - album: "Тёплый. Ламповый"
    album_url: "/albums/tyoplyy-lampovyy/"
