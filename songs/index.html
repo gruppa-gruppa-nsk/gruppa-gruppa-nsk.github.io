@@ -5,11 +5,9 @@ title: Песни группы
 <script>
 	$(document).ready(function()
 	{
-		audiojs.events.ready(function()
-		{
-			var as = audiojs.createAll();
-		});
-		
+		console.log("ready");
+		var as = audiojs.createAll();
+		console.log("created");
         $('div.gruppa-media-url').click(function(e)
 		{
 		  console.log("click");
