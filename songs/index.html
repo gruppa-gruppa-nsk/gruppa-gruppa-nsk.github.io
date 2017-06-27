@@ -11,8 +11,8 @@ title: Песни группы
         $('div.gruppa-media-url').click(function(e)
 		{
           e.preventDefault();
-		  console.log($(this).addClass('playing').siblings());
-          $(this).addClass('playing').siblings().removeClass('playing');
+		  $(this).siblings().removeClass('playing');
+          $(this).addClass('playing');
           audio.load($(this).attr('data-src'));
           audio.play();
 		  var cur = "Сейчас играет: \"" + $(this).attr("alt") + "\"";
