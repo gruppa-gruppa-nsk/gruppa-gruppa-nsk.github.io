@@ -5,7 +5,7 @@ title: Песни группы
 <script>
 	audiojs.events.ready(function(){var as = audiojs.createAll();});
         // Load in a track on click
-        $('a.gruppa-media-url').click(function(e)
+        $('div.gruppa-media-url').click(function(e)
 		{
 		  console.log("click");
           e.preventDefault();
@@ -54,9 +54,9 @@ title: Песни группы
 		<td class="gruppa-media-url-td">
 			{% if post.download and post.download != '' %}
 				{% for dnl in post.download %}
-					<a href="#" data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ dnl.name }}">
+					<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ dnl.name }}">
 						{{ dnl.name }}
-					</a>
+					</div>
 					{% if forloop.last == false %}
 						&nbsp;
 					{% endif %}

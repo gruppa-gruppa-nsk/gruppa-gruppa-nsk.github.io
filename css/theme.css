@@ -30,20 +30,20 @@ td.gruppa-media-url-td
 	cursor: pointer;
 }
 
-a.gruppa-media-url
+div.gruppa-media-url
 {
 	display: block;
 	text-indent: -3.3ex;
 	padding: 0px 0px 0px 20px;
 }
 
-a.playing
+div.playing
 {
 	color: #000;
 	text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3);
 }
 
-a.playing:before
+div.playing:before
 {
 	content: '>';
 	width: 14px;
