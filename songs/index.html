@@ -22,8 +22,16 @@ title: Песни группы
     </script>
 	
 <h1>Песни Песни</h1>
-<h3 id="current-song-id"></h3>
-<audio preload="none"></audio>
+<div style="float:bottom;" class="row text-center">
+	<div class="col-md-6">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3 id="current-song-id"></h3>
+				<audio preload="none"></audio>
+			</div>
+		</div>
+	</div>
+</div>
 <table class="table table-hover">
 <tr>
 	<th>#</th>
@@ -58,7 +66,7 @@ title: Песни группы
 		<td class="gruppa-media-url-td">
 			{% if post.download and post.download != '' %}
 				{% for dnl in post.download %}
-					<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ dnl.name }}">
+					<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ post.name }} - {{ dnl.name }}">
 						{{ dnl.name }}
 					</div>
 					{% if forloop.last == false %}
