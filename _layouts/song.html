@@ -12,6 +12,7 @@ layout: default
 	{% endfor %}
 {% endif %}
 </h1>
+{% if page.download and page.download != '' %}
 <div class="row">
 	<div class="col-md-6">
 		<div class="panel panel-default">
@@ -24,7 +25,6 @@ layout: default
 				<center>
 					<audio preload="none"></audio>
 					<br>
-{% if page.download and page.download != '' %}
 	<table class="table table-hover">
 	<tr>
 	<th scope="row">Версии:</th>
