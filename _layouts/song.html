@@ -29,16 +29,20 @@ layout: default
 	</div>
 </div>
 <div class="row">
-Версии:<br>
 {% if page.download and page.download != '' %}
+	<table class="table table-hover">
+	<tr>
 	{% for dnl in page.download %}
+		<td>
 		<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
 			{{ dnl.name }}
 		</div>
 		{% if forloop.last == false %}
 			&nbsp;
 		{% endif %}
+		</td>
 	{% endfor %}
+	</tr>
 	<script>
 	$(document).ready(function()
 	{
