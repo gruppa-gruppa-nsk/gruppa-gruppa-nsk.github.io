@@ -11,8 +11,8 @@ layout: default
 		{% endif %}
 	{% endfor %}
 {% endif %}
-{% if post.download and post.download != '' %}
-	{% for dnl in post.download %}
+{% if page.download and page.download != '' %}
+	{% for dnl in page.download %}
 		<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
 			{{ dnl.name }}
 		</div>
