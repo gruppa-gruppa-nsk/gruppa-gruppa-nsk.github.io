@@ -3,6 +3,7 @@ layout: default
 title: Песни группы
 ---
 <script>
+	audiojs.events.ready(function(){var as = audiojs.createAll();});
       $(function() { 
         // Load in a track on click
         $('.gruppa-media-url').click(function(e)
@@ -11,7 +12,8 @@ title: Песни группы
           $(this).addClass('playing').siblings().removeClass('playing');
           audio.load($(this).attr('data-src'));
           audio.play();
-		  $("#current-song-id").html("Сейчас играет:\"" + $(this).attr(alt) + "\");
+		  var cur = "Сейчас играет:\"" + $(this).attr("alt") + "\";
+		  $("#current-song-id").html(cur);
         });
       });
     </script>
