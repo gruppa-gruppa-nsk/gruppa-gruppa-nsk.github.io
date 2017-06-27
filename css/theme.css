@@ -39,10 +39,8 @@ body{
 .gruppa-media-url.playing:before
 {
 	content: '>';
-	width: 14px;
-	height: 14px;
+	display:block;
 	padding: 3px;
-	line-height: 14px;
 	margin: 0px;
 	position: absolute;
 	left: -24px;
