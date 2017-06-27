@@ -27,11 +27,11 @@ body{
 	display: block;
 	padding: 0px 0px 0px 20px;
 	cursor: pointer;
-	color: #444
+	color: #555
 }
 
 .gruppa-media-url.playing
 {
-	color: #030;
+	color: #070;
 	text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3);
 }
