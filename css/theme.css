@@ -22,19 +22,15 @@ body{
 	font-size: 20px;
 }
 
-td.gruppa-media-url-td
-{
-	margin: 0px;
-	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #ccc;
-	cursor: pointer;
-}
-
 div.gruppa-media-url
 {
 	display: block;
 	text-indent: -3.3ex;
 	padding: 0px 0px 0px 20px;
+	cursor: pointer;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	color: #aaa
 }
 
 div.playing
