@@ -32,20 +32,6 @@ body{
 
 .gruppa-media-url.playing
 {
-	color: #000;
+	color: #030;
 	text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3);
-}
-
-.gruppa-media-url.playing:before
-{
-	content: '>';
-	display:block;
-	padding: 3px;
-	margin: 0px;
-	position: absolute;
-	left: -24px;
-	top: 9px;
-	color: #000;
-	font-size: 13px;
-	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
 }
