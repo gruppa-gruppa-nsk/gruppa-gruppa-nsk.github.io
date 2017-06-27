@@ -22,3 +22,19 @@ body{
 	font-size: 20px;
 }
 
+.gruppa-media-url-td
+{
+	margin: 0px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	cursor: pointer;
+}
+
+.gruppa-media-url
+{
+	display: block; text-indent: -3.3ex; padding: 0px 0px 0px 20px;
+}
+
+a.playing { color: #aaa; text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3); }
+a.playing { color: #000; }
+a.playing:before { content: '>'; width: 14px; height: 14px; padding: 3px; line-height: 14px; margin: 0px; position: absolute; left: -24px; top: 9px; color: #000; font-size: 13px; text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2); }
