@@ -72,7 +72,7 @@ title: Песни группы
 		<td class="gruppa-media-url-td">
 			{% if post.download and post.download != '' %}
 				{% for dnl in post.download %}
-					<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ post.name }}&nbsp;-&nbsp;{{ dnl.name }}">
+					<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ post.name }}">
 						{{ dnl.name }}
 					</div>
 					{% if forloop.last == false %}
