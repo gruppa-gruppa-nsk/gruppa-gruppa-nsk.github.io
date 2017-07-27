@@ -1,11 +1,18 @@
 ---
 layout: song
-title: "Туалет | Песни"
+title: "Туалет | Yourself"
 description: "Текст песни, аккорды и скачать"
 categories: songs
 name: "Туалет"
 date: 2017-06-04 15:43:00
 length: "1:30"
+download:
+ - name: 2017
+   url: "/audio/05_yourself/04_tualet.mp3"
+   
+albums:
+ - album: "Yourself"
+   album_url: "/albums/yourself/"
 ---
 
 

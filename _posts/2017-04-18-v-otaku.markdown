@@ -1,11 +1,18 @@
 ---
 layout: song
-title: "В отаку | Песни"
+title: "В отаку | Yourself"
 description: "Текст песни, аккорды и скачать"
 categories: songs
 name: "В отаку"
 date: 2017-04-18 16:53:00
-length: "3:43"
+length: "3:41"
+download:
+ - name: 2017
+   url: "/audio/05_yourself/02_otaku.mp3"
+   
+albums:
+ - album: "Yourself"
+   album_url: "/albums/yourself/"
 ---
 
 

@@ -1,11 +1,18 @@
 ---
 layout: song
-title: "Интернет | Песни"
+title: "Интернет | Yourself"
 description: "Текст песни, аккорды и скачать"
 categories: songs
 name: "Интернет"
 date: 2017-04-18 16:57:00
-length: "3:55"
+length: "3:48"
+download:
+ - name: 2017
+   url: "/audio/05_yourself/01_internet.mp3"
+   
+albums:
+ - album: "Yourself"
+   album_url: "/albums/yourself/"
 ---
 
 

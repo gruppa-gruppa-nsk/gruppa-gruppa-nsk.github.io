@@ -1,11 +1,18 @@
 ---
 layout: song
-title: "Психотерапевтическая | Песни"
+title: "Психотерапевтическая | Yourself"
 description: "Текст песни, аккорды и скачать"
 categories: songs
 name: "Психотерапевтическая"
 date: 2017-04-18 16:50:00
 length: "3:14"
+download:
+ - name: 2017
+   url: "/audio/05_yourself/03_psihoterapevticheskaya.mp3"
+   
+albums:
+ - album: "Yourself"
+   album_url: "/albums/yourself/"
 ---
 
 
