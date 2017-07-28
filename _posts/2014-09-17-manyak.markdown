@@ -9,8 +9,10 @@ length: "5:13"
 download:
  - name: 2013
    url: "/audio/01_tyoplyy-lampovyy/02_manyak.mp3"
+   album_position: 2
  - name: 2017
    url: "/audio/04_gulyaya/01_manyak.mp3"
+   album_position: 1
 
 albums:
  - album: "Тёплый. Ламповый"

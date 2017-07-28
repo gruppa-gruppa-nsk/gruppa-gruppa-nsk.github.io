@@ -12,6 +12,7 @@ download:
 albums:
  - album: "Тленобезысходность"
    album_url: "/albums/tlenobezyhodnost/"
+   album_position: 2
 ---
 
 

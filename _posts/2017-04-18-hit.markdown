@@ -13,6 +13,7 @@ download:
 albums:
  - album: "Красота вокруг тебя"
    album_url: "/albums/krasota-vokrug-tebya/"
+   album_position: 1
 ---
 
 

@@ -13,6 +13,7 @@ download:
 albums:
  - album: "Гуляя"
    album_url: "/albums/gulyaya/"
+   album_position: 3
 ---
 
 

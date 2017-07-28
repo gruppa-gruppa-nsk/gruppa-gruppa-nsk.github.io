@@ -13,6 +13,7 @@ download:
 albums:
  - album: "Тёплый. Ламповый"
    album_url: "/albums/tyoplyy-lampovyy/"
+   album_position: 1
 ---
 
 Песня с сингла <a target="blank" href="http://gruppa.utkorose.ru/albums/tyoplyy-lampovyy/">"Тёплый. Ламповый"</a>

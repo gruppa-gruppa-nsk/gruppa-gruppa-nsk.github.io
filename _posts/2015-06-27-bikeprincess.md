@@ -12,6 +12,7 @@ download:
 albums:
  - album: "Красота вокруг тебя"
    album_url: "/albums/krasota-vokrug-tebya/"
+   album_position: 3
 ---
 <iframe id="widget" scrolling="no" frameborder="0" width="400" height="170" style="width: 400px; height: 170;" src="//widgets.jamendo.com/v3/track/1169816?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="> </iframe>
 
