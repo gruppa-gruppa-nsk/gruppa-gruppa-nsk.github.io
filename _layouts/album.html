@@ -17,7 +17,7 @@ layout: default
 				<center>
 					<audio preload="none"></audio>
 					<br>
-	<table class="table table-hover">
+	<table class="table table-hover" id="songs_table">
 	<tr>
 	<th>#</th>
 		<th>Название</th>
@@ -25,15 +25,14 @@ layout: default
 		<th>Длительность</th>
 	</tr>
 	
-	{% assign counter = 1 %}
 	{% assign items = site.posts | sort: 'title' %}
 	{% for post in items %}
 		{% if post.categories contains 'songs' %}
 			{% if post.albums %}
 				{% for alb in post.albums %}
 					{% if alb.album == page.name %}
-						<tr>
-						<td align="center">{{ counter }}</td>
+						<tr sort_position="{{ alb.album_position }}">
+						<td align="center">{{ alb.album_position }}</td>
 						<td><a href="{{ post.url }}">{{ post.name }}</a></td>
 						<td class="gruppa-media-url-td" align="center">
 						{% if post.download and post.download != '' %}
@@ -57,7 +56,6 @@ layout: default
 							{% endif %}
 						</td>
 						</tr>
-						{% assign counter = counter | plus: 1 %}
 					{% endif %}
 				{% endfor %}
 			{% endif %}
@@ -81,7 +79,48 @@ layout: default
 		  var cur = "Сейчас играет: \"" + $(this).attr("alt") + "\"";
 		  $("#current-song-id").html(cur);
         });
+		
 	});
+	
+	function sortTable()
+	{
+	  var table, rows, switching, i, x, y, shouldSwitch;
+	  table = document.getElementById("songs_table");
+	  switching = true;
+	  /*Make a loop that will continue until
+	  no switching has been done:*/
+	  while (switching)
+	  {
+		//start by saying: no switching is done:
+		switching = false;
+		rows = table.getElementsByTagName("tr");
+		/*Loop through all table rows (except the
+		first, which contains table headers):*/
+		for (i = 1; i < (rows.length - 1); i++)
+		{
+		  //start by saying there should be no switching:
+		  shouldSwitch = false;
+		  /*Get the two elements you want to compare,
+		  one from current row and one from the next:*/
+		  x = rows[i].getElementsByTagName("td")[0];
+		  y = rows[i + 1].getElementsByTagName("td")[0];
+		  //check if the two rows should switch place:
+		  if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase())
+		  {
+			//if so, mark as a switch and break the loop:
+			shouldSwitch= true;
+			break;
+		  }
+		}
+		if (shouldSwitch)
+		{
+		  /*If a switch has been marked, make the switch
+		  and mark that a switch has been done:*/
+		  rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+		  switching = true;
+		}
+	  }
+	}
     </script>
 				</center>
 			</div>
