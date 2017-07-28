@@ -1,10 +1,10 @@
 ---
 layout: album
-title: "Тленобезысходность"
+title: "\"Тленобезысходность\" — второй электрический сингл"
 description: "второй"
 date: 2014-4-29 12:30:53
 categories: albums
-name: "\"Тленобезысходность\" — второй электрический сингл"
+name: "Тленобезысходность"
 image: "tlenobezyshodnost_gr.png"
 ---
 

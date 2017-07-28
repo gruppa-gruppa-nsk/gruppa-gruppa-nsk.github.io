@@ -1,9 +1,9 @@
 ---
 layout: album
-title: "Гуляя"
+title: "\"Гуляя\" — четвёртый электрический сингл"
 description: "четвёртый"
 categories: albums
-name: "\"Гуляя\" — четвёртый электрический сингл"
+name: "Гуляя"
 image: "gulyaya.png"
 ---
 

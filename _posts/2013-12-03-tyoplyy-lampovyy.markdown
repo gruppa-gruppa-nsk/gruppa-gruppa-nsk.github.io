@@ -1,10 +1,10 @@
 ---
 layout: album
-title: "Тёплый. Ламповый | сингл 2013 года"
+title: "\"Тёплый. Ламповый\" — первый электрический сингл"
 description: "первый"
 date: 2013-12-2 17:30:53
 categories: albums
-name: "\"Тёплый. Ламповый\" — первый электрический сингл"
+name: "Тёплый. Ламповый"
 image: "teplyj_lampovyj-klet_gr.png"
 ---
 
