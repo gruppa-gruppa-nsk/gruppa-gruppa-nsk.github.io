@@ -34,6 +34,7 @@ emptyArray: []
 			{% if post.albums %}
 				{% for alb in post.albums %}
 					{% if alb.album == page.name %}
+						{% assign album_song_list = album_song_list | push "" %}
 						{% assign album_song_list[counter].album = alb.album %}
 						{% assign album_song_list[counter].song = post %}
 						<tr>
