@@ -1,6 +1,5 @@
 ---
 layout: default
-emptyArray: []
 ---
 <h1>{{ page.title }}</h1>
 <a href="/img/albums/{{ page.image }}" class="thumbnail" target="_blank">
@@ -27,16 +26,12 @@ emptyArray: []
 	</tr>
 	
 	{% assign counter = 1 %}
-	{% assign album_song_list = page.emptyArray %}
 	{% assign items = site.posts | sort: 'title' %}
 	{% for post in items %}
 		{% if post.categories contains 'songs' %}
 			{% if post.albums %}
 				{% for alb in post.albums %}
 					{% if alb.album == page.name %}
-						{% assign album_song_list = album_song_list | push "" %}
-						{% assign album_song_list[counter].album = alb.album %}
-						{% assign album_song_list[counter].song = post %}
 						<tr>
 						<td align="center">{{ counter }}</td>
 						<td><a href="{{ post.url }}">{{ post.name }}</a></td>
@@ -70,7 +65,6 @@ emptyArray: []
 	{% endfor %}
 	</tr>
 	</table>
-	{{ album_song_list | size }}
 	<script>
 	$(document).ready(function()
 	{
