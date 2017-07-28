@@ -28,7 +28,7 @@ emptyArray: []
 	
 	{% assign counter = 1 %}
 	{% assign album_song_list = page.emptyArray %}
-	{% assign items = site.posts | sort: 'albums.album_position' %}
+	{% assign items = site.posts | sort: 'title' %}
 	{% for post in items %}
 		{% if post.categories contains 'songs' %}
 			{% if post.albums %}
