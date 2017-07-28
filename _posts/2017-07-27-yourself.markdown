@@ -34,4 +34,5 @@ image: "yourself.png"
 - звучки *Fokin Pickups Custom*
 - флейта *Stagg*
 - скрипка
-- а про струны мы вам ничего не скажем, это уже традиция
+- приоткроем завесу тайны над струнами: 
+	- Страт: GHS Boomers David Gilmour Signature Blue

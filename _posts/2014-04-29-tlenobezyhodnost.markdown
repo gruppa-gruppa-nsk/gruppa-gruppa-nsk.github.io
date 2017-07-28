@@ -32,12 +32,12 @@ image: "tlenobezyshodnost_gr.png"
 - *Electro Harmonix #1 Echo Digital Delay*
 - *Behringe: UW300 Ultra Wah*
 - микрофоны *Behringer ULTRAVOICE XM1800S*
-- Звуковая карта - *Focusrite Scarlett 2i2*
+- Звуковая карта *Focusrite Scarlett 2i2*
 - Синтезатор *Yamaha PSR-295*
-- Гитара - *Aria Pro II SL420*
+- Гитара *Aria Pro II SL420*
 - Гитара *Jay Turser JT-300*
 - Гитара *Stagg S402*
-- Звучки: *Seymour Duncan Distortion Mayhem Set*
+- Звучки *Seymour Duncan Distortion Mayhem Set*
 - а про струны мы вам ничего не скажем
 
 Отдельное спасибо электрогитаре *Stagg*  за мягкий, плавающий строй. 

@@ -59,10 +59,10 @@ image: "teplyj_lampovyj-klet_gr.png"
     - *Behringer ULTRAVOICE XM1800S*
     - винтажный Shure SM'57 (USA)
     - Октава МК-319 (Россия)
-- Звуковая карта - *Focusrite Scarlett 2i2*
+- Звуковая карта *Focusrite Scarlett 2i2*
 - Синтезатор *Yamaha PSR-295*
-- Гитара - *Aria Pro II SL420*
-- Звучки: *Seymour Duncan Distortion Mayhem Set*
+- Гитара *Aria Pro II SL420*
+- Звучки *Seymour Duncan Distortion Mayhem Set*
 - а про струны мы вам ничего не скажем
 
 Отдельное спасибо электрогитаре *Stagg*  за мягкий, плавающий строй. 
