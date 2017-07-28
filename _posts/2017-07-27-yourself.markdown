@@ -14,7 +14,7 @@ image: "yourself.png"
 Славелий Роза  
 *Rinon Ninquenon*  
 Танюха Фокина  
-鶴見百英　（Tsurumi Moe / Цуруми Моэ) --- обложка альбома  
+鶴見 百英　（Tsurumi Moe / Цуруми Моэ) --- обложка альбома  
 
 ### Нелюди
 - *Lubuntu 16.04*
@@ -36,3 +36,7 @@ image: "yourself.png"
 - скрипка
 - приоткроем завесу тайны над струнами: 
 	- Страт: GHS Boomers David Gilmour Signature Blue
+
+## Скачать/Послушать
+- [ВК](https://vk.com/muzgruppa)
+- Остальное в процессе
