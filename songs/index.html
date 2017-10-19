@@ -2,24 +2,7 @@
 layout: default
 title: Песни группы
 ---
-	<script>
-	$(document).ready(function()
-	{
-		console.log("ready");
-		var audio = audiojs.createAll()[0];
-		console.log("created");
-        $('div.gruppa-media-url').click(function(e)
-		{
-          e.preventDefault();
-		  $('div.gruppa-media-url').removeClass('playing');
-          $(this).addClass('playing');
-          audio.load($(this).attr('data-src'));
-          audio.play();
-		  var cur = "Сейчас играет: \"" + $(this).attr("alt") + "\"";
-		  $("#current-song-id").html(cur);
-        });
-	});
-    </script>
+	<script src="/assets/js/player.js"></script>
 	
 <h1>Песни Песни</h1>
 <div class="row">
@@ -73,7 +56,9 @@ title: Песни группы
 			{% if post.download and post.download != '' %}
 				{% for dnl in post.download %}
 					<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ post.name }}">
-						{{ dnl.name }}
+						<span class="span_play_button">&#9654;</span>
+						<span class="span_pause_button">&#10074;&#10074;</span>
+						&nbsp;{{ dnl.name }}
 					</div>
 					{% if forloop.last == false %}
 						&nbsp;

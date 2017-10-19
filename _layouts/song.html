@@ -31,7 +31,9 @@ layout: default
 	{% for dnl in page.download %}
 		<td>
 		<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
-			{{ dnl.name }}
+			<span class="span_play_button">&#9654;</span>
+			<span class="span_pause_button">&#10074;&#10074;</span>
+			&nbsp;{{ dnl.name }}
 		</div>
 		{% if forloop.last == false %}
 			&nbsp;
@@ -40,24 +42,7 @@ layout: default
 	{% endfor %}
 	</tr>
 	</table>
-	<script>
-	$(document).ready(function()
-	{
-		console.log("ready");
-		var audio = audiojs.createAll()[0];
-		console.log("created");
-        $('div.gruppa-media-url').click(function(e)
-		{
-          e.preventDefault();
-		  $('div.gruppa-media-url').removeClass('playing');
-          $(this).addClass('playing');
-          audio.load($(this).attr('data-src'));
-          audio.play();
-		  var cur = "Сейчас играет: \"" + $(this).attr("alt") + "\"";
-		  $("#current-song-id").html(cur);
-        });
-	});
-    </script>
+	<script src="/assets/js/player.js"></script>
 				</center>
 			</div>
 		</div>

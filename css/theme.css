@@ -29,9 +29,24 @@ body{
 	cursor: pointer;
 	color: #555
 }
-
 .gruppa-media-url.playing
 {
 	color: #070;
 	text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3);
+}
+.gruppa-media-url span.span_play_button
+{
+	display: inline;
+}
+.gruppa-media-url span.span_pause_button
+{
+	display: none;
+}
+.gruppa-media-url.playing span.span_play_button
+{
+	display: none;
+}
+.gruppa-media-url.playing span.span_pause_button
+{
+	display: inline;
 }
