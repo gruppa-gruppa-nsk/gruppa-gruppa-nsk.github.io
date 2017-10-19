@@ -56,9 +56,7 @@ title: Песни группы
 			{% if post.download and post.download != '' %}
 				{% for dnl in post.download %}
 					<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ post.name }}">
-						<span class="span_play_button">&#9654;</span>
-						<span class="span_pause_button">&#10074;&#10074;</span>
-						&nbsp;{{ dnl.name }}
+						<span class="span_play_button">&#9654;</span><span class="span_pause_button">&#10074;&#10074;</span>&nbsp;{{ dnl.name }}
 					</div>
 					{% if forloop.last == false %}
 						&nbsp;

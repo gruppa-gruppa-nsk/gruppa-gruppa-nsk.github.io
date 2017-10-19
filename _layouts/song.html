@@ -31,9 +31,7 @@ layout: default
 	{% for dnl in page.download %}
 		<td>
 		<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
-			<span class="span_play_button">&#9654;</span>
-			<span class="span_pause_button">&#10074;&#10074;</span>
-			&nbsp;{{ dnl.name }}
+			<span class="span_play_button">&#9654;</span><span class="span_pause_button">&#10074;&#10074;</span>&nbsp;{{ dnl.name }}
 		</div>
 		{% if forloop.last == false %}
 			&nbsp;
