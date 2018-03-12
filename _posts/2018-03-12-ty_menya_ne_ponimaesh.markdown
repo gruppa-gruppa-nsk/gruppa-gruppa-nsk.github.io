@@ -3,7 +3,7 @@ layout: song
 title: "Ты меня не понимаешь | Что за панкота?"
 description: "Текст песни, аккорды и скачать"
 categories: songs
-name: "Что за панкота?"
+name: "Ты меня не понимаешь"
 date: 2018-03-12 12:04:00
 length: "3:10"
 download:
