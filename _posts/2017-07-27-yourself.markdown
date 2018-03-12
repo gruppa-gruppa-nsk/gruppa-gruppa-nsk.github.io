@@ -1,7 +1,7 @@
 ---
 layout: album
 title: "Yourself | пятый, няшный сингл"
-description: "первый"
+description: "пятый"
 date: 2017-07-27 22:30:53
 categories: albums
 name: "Yourself"

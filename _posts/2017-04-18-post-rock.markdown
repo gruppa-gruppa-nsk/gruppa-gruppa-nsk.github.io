@@ -9,11 +9,16 @@ length: "4:08"
 download:
  - name: 2014
    url: "/audio/02_tlenobezyhodnost/04_post-rock_bonus.mp3"
+ - name: 2018
+   url: "/audio/06_post_rock/01_post-rock.mp3"
    
 albums:
  - album: "Тленобезысходность"
    album_url: "/albums/tlenobezyhodnost/"
    album_position: 4
+ - album: "Пост-рок - Single"
+   album_url: "/albums/post-rock-single/"
+   album_position: 1
 ---
 
 
