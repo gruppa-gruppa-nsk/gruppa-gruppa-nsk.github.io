@@ -4,7 +4,7 @@ title: "Пост-рок | грустный сингл"
 description: "первый"
 date: 2018-03-12 11:30:53
 categories: albums
-name: "Пост-рок"
+name: "Пост-рок - Single"
 image: "post-rock.png"
 ---
 
