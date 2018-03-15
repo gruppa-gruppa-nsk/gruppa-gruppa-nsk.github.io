@@ -1,10 +1,19 @@
 ---
 layout: song
-title: "Студент | Песни"
+title: "Студент | Что за панкота?"
 description: "Текст песни, аккорды и скачать"
 categories: songs
 name: "Студент"
 date: 2017-04-18 16:35:00
+length: "3:00"
+download:
+ - name: 2018
+   url: "/audio/07_chto_za_pankota/01_student.mp3"
+   
+albums:
+ - album: "Что за панкота?"
+   album_url: "/albums/chto_za_pankota/"
+   album_position: 1
 ---
 
 
