@@ -1,7 +1,7 @@
 ---
 layout: album
-title: "Что за панкота? | грустный сингл"
-description: "первый"
+title: "Что за панкота? | панковый сингл"
+description: "панковый"
 date: 2018-03-15 19:30:53
 categories: albums
 name: "Что за панкота?"

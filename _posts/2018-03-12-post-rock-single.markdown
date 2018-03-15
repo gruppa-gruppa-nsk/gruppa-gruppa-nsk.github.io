@@ -1,7 +1,7 @@
 ---
 layout: album
 title: "Пост-рок | грустный сингл"
-description: "первый"
+description: "грустный"
 date: 2018-03-12 11:30:53
 categories: albums
 name: "Пост-рок - Single"
