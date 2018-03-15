@@ -1,6 +1,6 @@
 ---
 layout: album
-title: "Что за панкота? | панковый сингл"
+title: "Что за панкота? | шестой, панковый сингл"
 description: "панковый"
 date: 2018-03-15 19:30:53
 categories: albums
