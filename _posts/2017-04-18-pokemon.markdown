@@ -16,7 +16,6 @@ albums:
    album_position: 3
 ---
 
-
 ## Текст песни  
 Ну где-же, где же он?  
 Покемон, покемон, покемон?  
@@ -37,3 +36,6 @@ albums:
 Вот он! Цап-цап-цап!  
 
 Это мой покемон!  
+
+## Клип  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9QItQwWBwP8" frameborder="0" allowfullscreen></iframe>
