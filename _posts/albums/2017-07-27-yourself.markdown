@@ -25,6 +25,7 @@ image: "yourself.png"
 - VST хост *Carla* с плагином *DrumMic'A* для *Kontakt 5*
 - самодельный гибридный *[комбо-усилитель](http://rinonninqueon.ru/schematics/cabinet_3/)*
 - педаль перегруза *[DriveIt!](http://rinonninqueon.ru/schematics/DriveIt_complete/)*
+- Октавер Pearl OC-07 Octaver
 - микрофон *AKG Perception 120*
 - звуковая карта *Focusrite Scarlett 2i2*
 - гитара *Aria Pro II SL420*
