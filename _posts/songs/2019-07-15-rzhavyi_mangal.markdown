@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Ржавый мангал" | Песни"
+title: "Ржавый мангал | Песни"
 description: "Текст песни, аккорды и скачать"
 categories: songs
 name: "Ржавый мангал"
