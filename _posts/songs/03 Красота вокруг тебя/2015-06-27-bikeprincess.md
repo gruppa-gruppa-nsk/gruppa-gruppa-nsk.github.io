@@ -8,11 +8,16 @@ length: "4:21"
 download:
  - name: 2014
    url: "/audio/03_krasota-vokrug-tebya/03_bikeprincess.mp3"
+ - name: 2019
+   url: "/audio/09_legendy_goroda_n/01_princessa_nochnyh_dorog.mp3"
    
 albums:
  - album: "Красота вокруг тебя"
    album_url: "/albums/krasota-vokrug-tebya/"
    album_position: 3
+ - album: "Легенды города N"
+   album_url: "/albums/legendy_goroda_n/"
+   album_position: 1
 ---
 <iframe id="widget" scrolling="no" frameborder="0" width="400" height="170" style="width: 400px; height: 170;" src="//widgets.jamendo.com/v3/track/1169816?autoplay=0&layout=standard&manualWidth=400&width=400&theme=light&highlight=0&tracklist=true&tracklist_n=3&embedCode="> </iframe>
 
