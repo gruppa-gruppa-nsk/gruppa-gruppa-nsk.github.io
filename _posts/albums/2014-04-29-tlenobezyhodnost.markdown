@@ -14,9 +14,9 @@ image: "tlenobezyshodnost_gr.png"
 ## Участники
 
 ### Люди  
-- Славелий Роза  
-- *Rinon Ninquenon*  
-- Эпика Колората
+* Славелий Роза: вокал, песни, аранжировки, партия ритм-гитары
+* *Rinon Ninqueon*: оборудование, запись, сведение и мастеринг, партии гитар, аранжировки гитар, соло, бэк-вокал, обложка альбома.
+* Ольга Эпика Колората Тюленева: партии клавишных, аранжировки клавишных, бэк-вокал.
 
 ### Нелюди
 - *Ubuntu Studio 13.10*
@@ -41,3 +41,12 @@ image: "tlenobezyshodnost_gr.png"
 - а про струны мы вам ничего не скажем
 
 Отдельное спасибо электрогитаре *Stagg*  за мягкий, плавающий строй. 
+
+## Скачать/Послушать
+- [ВК](https://vk.com/muzgruppa)
+- Скачать с [MailCloud](https://cloud.mail.ru/public/p66v%2F3WTPGpLjT)
+- Бесплатно на [Jamendo](https://www.jamendo.com/album/134225/tlenobezyskhodnost)
+- Слушать в [Яндекс Музыка](https://music.yandex.ru/album/3773905)
+- Купить в [iTunes](https://music.apple.com/ru/album/%D1%82%D0%BB%D0%B5%D0%BD%D0%BE%D0%B1%D0%B5%D0%B7%D1%8B%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C-ep/1153661412)
+- Купить в [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_k8RXX71SO-x5WK55dFXk6VNNrded45Q9c)
+- А также в других магазинах электронной дистрибьюции и стриминговых сервисах.

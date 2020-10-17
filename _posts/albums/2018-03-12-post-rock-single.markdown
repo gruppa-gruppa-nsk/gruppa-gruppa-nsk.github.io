@@ -11,8 +11,8 @@ image: "post-rock.png"
 ## Участники  
 
 ### Люди  
-Славелий Роза  
-*Rinon Ninquenon*  
+* Славелий Роза: вокал, песни, аранжировки, партия клавишных.
+* *Rinon Ninqueon*: оборудование, запись, сведение и мастеринг, партии гитар, аранжировки гитар, партия баса, соло, палка дождя, бэк-вокал, обложка альбома.
 
 ### Нелюди
 - *Lubuntu 16.04*
@@ -34,4 +34,9 @@ image: "post-rock.png"
 
 ## Скачать/Послушать
 - [ВК](https://vk.com/muzgruppa)
-- Остальное в процессе
+- Скачать с [MailCloud](https://cloud.mail.ru/public/WDoa%2F4BSpTBxY7)
+- Бесплатно на [Jamendo](https://www.jamendo.com/album/175493/post-rok-single)
+- Слушать в [Яндекс Музыка](https://music.yandex.ru/album/5141462)
+- Купить в [iTunes](https://music.apple.com/ru/album/%D0%BF%D0%BE%D1%81%D1%82-%D1%80%D0%BE%D0%BA-single/1363986287)
+- Купить в [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_lKRGllMwp5ke9uykVWVnB77P-5b1Jwq94)
+- А также в других магазинах электронной дистрибьюции и стриминговых сервисах.

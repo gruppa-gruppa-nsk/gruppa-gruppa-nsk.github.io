@@ -11,10 +11,12 @@ image: "yourself.png"
 ## Участники  
 
 ### Люди  
-Славелий Роза  
-*Rinon Ninquenon*  
-Танюха Фокина  
-鶴見 百英　（Tsurumi Moe / Цуруми Моэ) --- обложка альбома  
+* Славелий Роза: вокал, песни, аранжировки, партия ритм-гитары.
+* *Rinon Ninqueon*: оборудование, запись, сведение и мастеринг, партии гитар, аранжировки гитар, партия баса, соло, бэк-вокал, концепт обложки альбома.
+* Ольга Эпика Колората Тюленева: аранжировки клавишных.
+* Танюха Фокина: партии клавишных, бэк-вокал.
+* Олег Полежаев: текста.
+* Моэ Цуруми (鶴見 百英 / Tsurumi Moe): обложка альбома.
 
 ### Нелюди
 - *Lubuntu 16.04*
@@ -40,4 +42,9 @@ image: "yourself.png"
 
 ## Скачать/Послушать
 - [ВК](https://vk.com/muzgruppa)
-- Остальное в процессе
+- Скачать с [MailCloud](https://cloud.mail.ru/public/5xLv%2F3Gr6EbGE4)
+- Бесплатно на [Jamendo](https://www.jamendo.com/album/170148/yourself)
+- Слушать в [Яндекс Музыка](https://music.yandex.ru/album/4570484)
+- Купить в [iTunes](https://music.apple.com/ru/album/yourself-ep/1263428991)
+- Купить в [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_k4blmQKNt3yNUM1yY1-cuggkmLT_r4D_U)
+- А также в других магазинах электронной дистрибьюции и стриминговых сервисах.

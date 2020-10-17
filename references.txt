@@ -1,4 +1,4 @@
-Отсылки
+﻿Отсылки
 
 # Тёплый. Ламповый
 
@@ -69,8 +69,11 @@
 ## В отаку
 
 Общий шаблон j-pop и анимешных песен
+Подвывания анимешным голосом -- скорее Yuru Yuri, но есть много где.
 まともに始めなさいよ！ (Matomoni hajimenasai yo!) - Хватит дурью маяться, давайте уже начинать! --- фраза *Hiiragi Kagami* перед опенингом из аниме *Lucky Star*
 Nya, nya... Let's nya! --- отсылка к опенингу *Haiyore! Nyaruko-san*
+В конце "Всё!" --- опенинг Himouto! Umaru-chan
+
 А также, были проанализированы песни:
 - Hirano Aya --- Dondake Fanfare
 - Aimi Tanaka --- Kakushinteki Metamaruphose!

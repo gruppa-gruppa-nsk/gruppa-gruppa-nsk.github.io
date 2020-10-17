@@ -12,9 +12,10 @@ image: "gulyaya.png"
 ## Участники  
 
 ### Люди  
-Славелий Роза  
-*Rinon Ninquenon*  
-Эпика Колората
+* Славелий Роза: вокал, песни, аранжировки, партия ритм-гитары
+* *Rinon Ninqueon*: оборудование, запись, сведение и мастеринг, партии гитар, аранжировки гитар, соло, обложка альбома.
+* Ольга Эпика Колората Тюленева: партии клавишных, аранжировки клавишных, бэк-вокал.
+* Ярослав Круль: соло на клавишных.
 
 ### Нелюди
 - *Ubuntu 14.04*
@@ -41,10 +42,9 @@ image: "gulyaya.png"
 
 ## Скачать/Послушать
 - [ВК](https://vk.com/muzgruppa)
-- [Kanjian](https://www.kanjian.com/muzgruppa/music/)
-- WAV на [Google Drive](https://drive.google.com/drive/folders/0B8Pdgd_g-Uk-OEp1bXBTV2RPUTg?usp=sharing)
+- Скачать с [MailCloud](https://cloud.mail.ru/public/3XW9%2F4KRsSezUb)
 - Бесплатно на [Jamendo](https://www.jamendo.com/album/164470/gulyaya)
 - Слушать в [Яндекс Музыка](https://music.yandex.ru/album/4011420)
-- Купить в [iTunes](https://itunes.apple.com/ru/album/gulaa-single/id1190873260)
-- Купить в [Google Music](https://play.google.com/store/music/album/Группа_Группа_Нск_Гуляя?id=B44knbavdl6i5cqkgw2j4lzeo7e&hl=ru)
-- А также в других магазинах электронной дистрибьюции
+- Купить в [iTunes](https://music.apple.com/ru/album/%D0%B3%D1%83%D0%BB%D1%8F%D1%8F-single/1190873260)
+- Купить в [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_klsDBOoPEyA2AEDV0LOswXpYn2qbPYZEk)
+- А также в других магазинах электронной дистрибьюции и стриминговых сервисах.

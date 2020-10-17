@@ -13,9 +13,10 @@ image: "krasota_gr.png"
 ## Участники  
 
 ### Люди  
-Славелий Роза  
-*Rinon Ninquenon*  
-Эпика Колората
+* Славелий Роза: вокал, песни, аранжировки, партия ритм-гитары
+* *Rinon Ninqueon*: оборудование, запись, сведение и мастеринг, партии гитар, аранжировки гитар, соло, бэк-вокал, обложка альбома.
+* Ольга Эпика Колората Тюленева: партии клавишных, аранжировки клавишных, бэк-вокал.
+* Александр Ри: песни.
 
 ### Нелюди
 - *Ubuntu Studio 14.04*
@@ -38,3 +39,12 @@ image: "krasota_gr.png"
 - Гитара *Stagg S402*
 - Звучки *Seymour Duncan Distortion Mayhem Set*
 - а про струны мы вам ничего не скажем, это уже традиция
+
+## Скачать/Послушать
+- [ВК](https://vk.com/muzgruppa)
+- Скачать с [MailCloud](https://cloud.mail.ru/public/3ZGq%2F2fTWHuWM3)
+- Бесплатно на [Jamendo](https://www.jamendo.com/album/140754/krasota-vokrug-tebya)
+- Слушать в [Яндекс Музыка](https://music.yandex.ru/album/3776372)
+- Купить в [iTunes](https://music.apple.com/ru/album/%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0-%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3-%D1%82%D0%B5%D0%B1%D1%8F-single/1153981814)
+- Купить в [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_nX3Mun7hRWzgY2BFdyHsj3lXnkUxSdbMI)
+- А также в других магазинах электронной дистрибьюции и стриминговых сервисах.

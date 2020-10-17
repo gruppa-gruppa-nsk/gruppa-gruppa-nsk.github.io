@@ -11,9 +11,11 @@ image: "legends.png"
 ## Участники  
 
 ### Люди  
-Славелий Роза  
-*Rinon Ninquenon*  
-Танюха Фокина  
+* Славелий Роза: вокал, песни, аранжировки, партия ритм-гитары.
+* *Rinon Ninqueon*: оборудование, запись, сведение и мастеринг, партии гитар, аранжировки гитар, партия баса, соло, бэк-вокал, обложка альбома.
+* Танюха Фокина: бэк-вокал.
+* Михаил Мельников: аранжировки.
+* Александр Ри: песни.
 
 ### Нелюди
 - *Lubuntu 16.04*
@@ -32,4 +34,9 @@ image: "legends.png"
 
 ## Скачать/Послушать
 - [ВК](https://vk.com/muzgruppa)
-- Остальное в процессе
+- Скачать с [MailCloud](https://cloud.mail.ru/public/4iqg%2F3h1TmciZ2)
+- Бесплатно на [Jamendo](https://www.jamendo.com/album/189624/legendy-goroda-n)
+- Слушать в [Яндекс Музыка](https://music.yandex.ru/album/9215362)
+- Купить в [iTunes](https://music.apple.com/ru/album/%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-n-ep/1490005041)
+- Купить в [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_lMPN9k95ROtH5tbg2WlvUjn7mff5elarc)
+- А также в других магазинах электронной дистрибьюции и стриминговых сервисах.
