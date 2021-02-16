@@ -1,5 +1,10 @@
 ---
-published: false
+published: true
+layout: post
+title: История одной песни
+name: История одной песни
+date: 2021-02-18T02:28:53.000Z
+categories: blog
 ---
 ---
 layout: post
