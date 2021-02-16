@@ -10,4 +10,20 @@ categories: blog
 published: false
 ---
 
-Аллилуйя! После трёхлетних мытарств сайта он наконец-то создан на гитхабе. На этот раз без WordPRess, PHP и MySQL — только статика. Jekyll используется в качестве генератора. Через некоторое время на сайт будут добавлены новости (твиттер-лента) и песни.
+## Как Степан новый миниальбом делал
+
+![]({{site.baseurl}}//img/for-posts/oss/1-01.jpg)
+
+![]({{site.baseurl}}//img/for-posts/oss/1-02.jpg)
+
+![]({{site.baseurl}}//img/for-posts/oss/1-03.jpg)
+
+![]({{site.baseurl}}//img/for-posts/oss/1-04.jpg)
+
+![]({{site.baseurl}}//img/for-posts/oss/1-05.jpg)
+
+![]({{site.baseurl}}//img/for-posts/oss/1-06.jpg)
+
+![]({{site.baseurl}}//img/for-posts/oss/1-07.jpg)
+
+![]({{site.baseurl}}//img/for-posts/oss/1-08.jpg)
