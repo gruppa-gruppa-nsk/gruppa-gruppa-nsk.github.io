@@ -6,14 +6,7 @@ name: История одной песни
 date: 2021-02-18T02:28:53.000Z
 categories: blog
 ---
----
-layout: post
-title:  "История одной песни"
-name:  "История одной песни"
-date:   2021-02-18 02:28:53
-categories: blog
-published: true
----
+
 
 ## Как Степан новый миниальбом делал
 
