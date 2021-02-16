@@ -7,7 +7,7 @@ title:  "История одной песни"
 name:  "История одной песни"
 date:   2021-02-18 02:28:53
 categories: blog
-published: false
+published: true
 ---
 
 ## Как Степан новый миниальбом делал
