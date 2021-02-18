@@ -43,4 +43,32 @@ categories: blog
 
 ## Концерт
 
+![]({{site.baseurl}}/img/for-posts/oss/3-01.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/3-02.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/3-03.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/3-04.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/3-05.jpg)
+
 ## Встреча
+
+![]({{site.baseurl}}/img/for-posts/oss/4-01.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/4-02.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/4-03.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/4-04.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/4-05.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/4-06.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/4-07.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/4-08.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/4-09.jpg)
