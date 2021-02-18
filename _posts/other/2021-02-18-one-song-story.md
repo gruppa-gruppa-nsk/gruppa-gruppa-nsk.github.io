@@ -3,7 +3,7 @@ published: false
 layout: post
 title: История одной песни
 name: История одной песни
-date: 2021-02-18T02:28:53.000Z
+date: {}
 categories: blog
 ---
 
@@ -26,3 +26,21 @@ categories: blog
 ![]({{site.baseurl}}/img/for-posts/oss/1-07.jpg)
 
 ![]({{site.baseurl}}/img/for-posts/oss/1-08.jpg)
+
+## Степан и нейросеть часть 2
+
+![]({{site.baseurl}}/img/for-posts/oss/2-01.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/2-02.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/2-03.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/2-04.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/2-05.jpg)
+
+![]({{site.baseurl}}/img/for-posts/oss/2-06.jpg)
+
+## Концерт
+
+## Встреча
