@@ -12,7 +12,7 @@ categories: blog
 Прочитали? Тогда вперёд!
 
 
-<button class="btn btn-success">[ИСТОРИЯ ОДНОЙ ПЕСНИ](https://gruppa.utkorose.ru/winter-quest/ "ИСТОРИЯ ОДНОЙ ПЕСНИ")</button>
+<button class="btn">[ИСТОРИЯ ОДНОЙ ПЕСНИ](https://gruppa.utkorose.ru/winter-quest/ "ИСТОРИЯ ОДНОЙ ПЕСНИ")</button>
 
 ## Как Степан новый миниальбом делал
 
