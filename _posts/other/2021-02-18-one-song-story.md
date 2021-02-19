@@ -31,6 +31,8 @@ categories: blog
 
 ![]({{site.baseurl}}/img/for-posts/oss/1-08.jpg)
 
+<br><br>
+
 ## Степан и нейросеть часть 2
 
 ![]({{site.baseurl}}/img/for-posts/oss/2-01.jpg)
@@ -45,6 +47,8 @@ categories: blog
 
 ![]({{site.baseurl}}/img/for-posts/oss/2-06.jpg)
 
+<br><br>
+
 ## Концерт
 
 ![]({{site.baseurl}}/img/for-posts/oss/3-01.jpg)
@@ -57,22 +61,24 @@ categories: blog
 
 ![]({{site.baseurl}}/img/for-posts/oss/3-05.jpg)
 
+<br><br>
+
 ## Встреча
 
-![]({{site.baseurl}}/img/for-posts/oss/4-01.jpg)
+![]({{site.baseurl}}/img/for-posts/oss/4-01.png)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-02.jpg)
+![]({{site.baseurl}}/img/for-posts/oss/4-02.png)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-03.jpg)
+![]({{site.baseurl}}/img/for-posts/oss/4-03.png)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-04.jpg)
+![]({{site.baseurl}}/img/for-posts/oss/4-04.png)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-05.jpg)
+![]({{site.baseurl}}/img/for-posts/oss/4-05.png)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-06.jpg)
+![]({{site.baseurl}}/img/for-posts/oss/4-06.png)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-07.jpg)
+![]({{site.baseurl}}/img/for-posts/oss/4-07.png)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-08.jpg)
+![]({{site.baseurl}}/img/for-posts/oss/4-08.png)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-09.jpg)
+![]({{site.baseurl}}/img/for-posts/oss/4-09.png)
