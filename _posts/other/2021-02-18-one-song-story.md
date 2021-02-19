@@ -66,20 +66,20 @@ categories: blog
 
 ## Встреча
 
-![]({{site.baseurl}}/img/for-posts/oss/4-01.png)
+![]({{site.baseurl}}/img/for-posts/oss/4-01.jpg)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-02.png)
+![]({{site.baseurl}}/img/for-posts/oss/4-02.jpg)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-03.png)
+![]({{site.baseurl}}/img/for-posts/oss/4-03.jpg)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-04.png)
+![]({{site.baseurl}}/img/for-posts/oss/4-04.jpg)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-05.png)
+![]({{site.baseurl}}/img/for-posts/oss/4-05.jpg)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-06.png)
+![]({{site.baseurl}}/img/for-posts/oss/4-06.jpg)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-07.png)
+![]({{site.baseurl}}/img/for-posts/oss/4-07.jpg)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-08.png)
+![]({{site.baseurl}}/img/for-posts/oss/4-08.jpg)
 
-![]({{site.baseurl}}/img/for-posts/oss/4-09.png)
+![]({{site.baseurl}}/img/for-posts/oss/4-09.jpg)
