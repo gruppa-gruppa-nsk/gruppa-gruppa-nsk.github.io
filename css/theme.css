@@ -64,3 +64,6 @@ body{
 .btn a:visited{
 	color: #ffffff	
 }
+img {
+	max-width: 100%;
+}
