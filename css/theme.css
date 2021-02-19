@@ -50,3 +50,17 @@ body{
 {
 	display: inline;
 }
+
+.btn a{
+	color: #ffffff	
+}
+
+
+.btn a:hover{
+	color: #ffffff	
+}
+
+
+.btn a:visited{
+	color: #ffffff	
+}
