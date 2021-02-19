@@ -3,7 +3,7 @@ published: true
 layout: post
 title: История одной песни
 name: История одной песни
-date: {}
+date: '2020-02-19:00:00.000Z'
 categories: blog
 ---
 
