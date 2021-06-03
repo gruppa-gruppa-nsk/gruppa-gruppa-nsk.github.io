@@ -31,21 +31,26 @@ layout: default
 	<table class="table table-hover">
 	<tr>
 	<th scope="row">Версии:</th>
+	</tr>
 	{% for dnl in page.download %}
+		<tr>
 		<td>
-		<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
 			<span>{{ dnl.name }}</span>
+		</td>
+		<td>
+		
+			
 			<audio controls>
 						<source src="{{dnl.url}}">
 						
 					</audio>
+		</td>
 		</div>
 		{% if forloop.last == false %}
 			&nbsp;
 		{% endif %}
 		</td>
 	{% endfor %}
-	</tr>
 	</table>
 	<!--<script src="/assets/js/player.js"></script>-->
 				</center>
