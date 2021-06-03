@@ -24,7 +24,7 @@ layout: default
 			<div class="panel-body">
 				<center>
 					<audio controls>
-						<source src="page.download.url">
+						<source src="{{page.download.url}}">
 						
 					</audio>
 					<br>
@@ -34,7 +34,10 @@ layout: default
 	{% for dnl in page.download %}
 		<td>
 		<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
-			<span class="span_play_button">&#9654;</span><span class="span_pause_button">&#10074;&#10074;</span>&nbsp;{{ dnl.name }}
+			<audio controls>
+						<source src="{{dn1}}">
+						
+					</audio>
 		</div>
 		{% if forloop.last == false %}
 			&nbsp;
