@@ -34,6 +34,7 @@ layout: default
 	{% for dnl in page.download %}
 		<td>
 		<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
+			<span>{{ dnl.name }}</span>
 			<audio controls>
 						<source src="{{dnl.url}}">
 						
