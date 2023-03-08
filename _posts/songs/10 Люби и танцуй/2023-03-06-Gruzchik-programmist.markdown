@@ -19,7 +19,7 @@ albums:
    album_position: 4
  - album: "Люби и танцуй"
    album_url: "/albums/love_and_dance/"
-   album_position: 4
+   album_position: 16
 ---
 
 
