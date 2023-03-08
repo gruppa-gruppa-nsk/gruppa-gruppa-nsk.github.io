@@ -2,7 +2,7 @@
 layout: album
 title: "Люби и танцуй | девятый, танцевальный сингл"
 description: "для дам"
-date: 2023-03-08 16:00:00
+date: 2023-03-08 12:00:00
 categories: albums
 name: "Люби и танцуй"
 image: "love.png"
