@@ -9,17 +9,11 @@ length: "3:53"
 download:
  - name: 2023
    url: "/audio/10_love_and_dance/04_Gruzchik-programmist.mp3"
-download:
- - name: 2023 (Radio)
-   url: "/audio/10_love_and_dance/16 gruzchik-programmist_radio.mp3"
    
 albums:
  - album: "Люби и танцуй"
    album_url: "/albums/love_and_dance/"
    album_position: 4
- - album: "Люби и танцуй"
-   album_url: "/albums/love_and_dance/"
-   album_position: 16
 ---
 
 

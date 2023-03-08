@@ -9,17 +9,11 @@ length: "4:53"
 download:
  - name: 2023
    url: "/audio/10_love_and_dance/05_Ty_mne_nravishsya_takoy.mp3"
-download:
- - name: 2023 (Extended)
-   url: "/audio/10_love_and_dance/17_Ty_mne_nravishsya_takoy_extended.mp3"
    
 albums:
  - album: "Люби и танцуй"
    album_url: "/albums/love_and_dance/"
    album_position: 5
- - album: "Люби и танцуй"
-   album_url: "/albums/love_and_dance/"
-   album_position: 17
 ---
 
 
