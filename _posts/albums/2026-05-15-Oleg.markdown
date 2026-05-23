@@ -5,7 +5,7 @@ description: "Олег в жару он, и в дождь, и в снег"
 date: 2026-05-15 12:00:00
 categories: albums
 name: "Олег"
-image: "love.png"
+image: "oleg.jpg"
 ---
 
 ## Участники  
