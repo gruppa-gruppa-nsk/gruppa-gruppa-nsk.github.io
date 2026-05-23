@@ -9,7 +9,7 @@ date: 2026-05-15 16:00:00
 length: "4:32"
 download:
  - name: 2023
-   url: "/audio/11_oleg/oleg.mp3"
+   url: "/audio/11_oleg/01_oleg.mp3"
    
 albums:
  - album: "Олег"
