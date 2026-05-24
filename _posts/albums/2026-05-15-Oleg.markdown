@@ -8,6 +8,27 @@ name: "Олег"
 image: "oleg.jpg"
 ---
 
+## Участники  
+
+### Люди  
+* *Славелий Роза*: вокал, песни, аранжировки
+* *Rinon Ninqueon*: оборудование, запись, сведение и мастеринг, партии гитар, аранжировки гитар, партия баса, соло, бэк-вокал, обложка альбома.
+* *Олег Полежаев*: Олег.
+
+### Нелюди
+- *Lubuntu 20.04*
+- *Ardour 5.10*
+- наборы плагинов *Calf*, *Tap*, *GVST*
+- драм-машина *Hydrogen*
+- VST хост *Carla* с плагином *DrumMic'A* для *Kontakt 5*
+- Процессор эффектов *Fractal Audio FM3*
+- микрофон *ARK Fet*
+- звуковая карта *Roland Rubix 44*
+- гитара *[RN Dean ML 2024](https://rinonninqueon.ru/diy/dean_ml/)*
+- звучки *Bill Lawrence L500XL*
+- звучки *Seymour Duncan SH-1B*
+- басс-гитара *Vintage V-1004DX*
+
 ## Скачать/Послушать
 - [На музыкальных площадках](https://muz.lc/oleeg)
 - [ВК](https://vk.com/muzgruppa)
