@@ -6,28 +6,26 @@ title: Анекдоты про Группу
 <h1>Анекдоты про Группу</h1>
 
 
-<div class="container">
-	<ul class="posts">
-	{%- for post in site.posts -%}
-		{%- if post.categories contains 'anecdote' -%}
-		<div id="id_post" class="container">
-			<div class="row">
-				<div class="col-xs-12 col-md-12">
-				<h4>
-					 <a href="{{ post.url }}">{{ post.title }}</a> &raquo; <span>{{ post.date | date_to_string }}</span>
-				</h4>
-				</div>
-			</div>
-			<hr>
-			<div class="row">
-				<div class="col-xs-12 col-md-12">
-					{{ post.content | strip_html | truncatewords:50}}<br><br>
-					<a href="{{ post.url }}" role="button" class="btn btn-outline-secondary">Читать дальше</a><br><br></span>
-				</div>
+<ul class="posts">
+{%- for post in site.posts -%}
+	{%- if post.categories contains 'anecdote' -%}
+	<div id="id_post">
+		<div class="row">
+			<div class="col-xs-12 col-md-12">
+			<h4>
+				 <a href="{{ post.url }}">{{ post.title }}</a> &raquo; <span>{{ post.date | date_to_string }}</span>
+			</h4>
 			</div>
 		</div>
-		{%- endif -%}
-	{%- endfor -%}
-	</ul>
-	<hr>
-</div>
+		<hr>
+		<div class="row">
+			<div class="col-xs-12 col-md-12">
+				{{ post.content | strip_html | truncatewords:50}}<br><br>
+				<a href="{{ post.url }}" role="button" class="btn btn-outline-secondary">Читать дальше</a><br><br></span>
+			</div>
+		</div>
+	</div>
+	{%- endif -%}
+{%- endfor -%}
+</ul>
+<hr>
