@@ -1,0 +1,16 @@
+---
+layout: chapters
+title: "Глава 'Степан и нейросеть 2' | Комиксы"
+description: "Глава 'Степан и нейросеть 2'"
+categories: chapters
+series_name: "one-song-story"
+date: 2019-10-29 17:47:00
+image: "/img/comics/one-song-story/ch2/2-01.jpg"
+image_path: "img/comics/one-song-story/ch2"
+chapter: 2
+chapter_title: Степан и нейросеть 2
+redirect_to:
+  - /comics/one-song-story/#chapter2
+---
+
+

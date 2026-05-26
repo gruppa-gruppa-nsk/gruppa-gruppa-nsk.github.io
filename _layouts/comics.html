@@ -4,11 +4,40 @@ layout: default
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
-{% assign filtered_posts = site.posts | where: "categories", "comics" %}
+{% assign filtered_posts = site.posts | where: "categories", "chapters" %}
 {% assign filtered_posts = filtered_posts | where_exp:"item", "item.series_name == page.series_name" %}
 {% assign sorted_posts = filtered_posts | sort: "chapter" %}
+<p>Глав в серии: {{ filtered_posts.size }}</p>
+
+<script>
+  $(function () {
+    var $fotoramaDiv = $('.fotorama');
+    var fotorama = $fotoramaDiv.data('fotorama');
+	var $chapter_title = $('#chapter_title');
+	
+	$('.fotorama').on('fotorama:ready fotorama:showend', function (e, fotorama) {
+		console.log('showend');
+		var activeFrame = fotorama.activeFrame;
+		if (activeFrame && activeFrame.id)
+		{
+			console.log('active and id');
+			var currentTitle = activeFrame.caption;
+			console.log(currentTitle);
+			if (currentTitle )
+				$chapter_title.text(currentTitle); 
+		}
+	}).fotorama();
+
+    $('.goto-chapter-btn').on('click', function() {
+      var slideIndex = $(this).data('slide-index');
+	  console.log('click', slideIndex);
+      fotorama.show(slideIndex);
+    });
+  });
+</script>
 
 <div class="post">
+	<h3 id='chapter_title'></h3>
 	<div class="fotorama" id="comics-gallery" data-nav="thumbs" data-allowfullscreen="native" data-keyboard="true" data-width="50%" data-minwidth="400" data-maxwidth="100%" data-minheight="300" data-maxheight="100%" data-hash="true">
 
 {% for post in sorted_posts %}
@@ -17,7 +46,7 @@ layout: default
 	{%- for image in site.static_files -%}
 		{%- if image.path contains post.image_path -%}
 			{%- unless image.path contains 'thumbs' -%}
-				&nbsp;<a href="{{ image.path }}" data-caption="Глава {{post.chapter}}" {% if first_image == 1 %} id="chapter{{ post.chapter }}" {% assign first_image = 0 %}{% endif %}>
+				&nbsp;<a href="{{ image.path }}" data-caption="Глава {{post.chapter}}: {{ post.chapter_title }} ({{post.date | date_to_string}})" {% if first_image == 1 %} id="chapter{{ post.chapter }}" {% assign first_image = 0 %}{% endif %}>
 				<img src="{{'/' | append: post.image_path | append: '/' | append: image.name }}"></a>
 			{%- endunless -%}
 		{%- endif -%}
@@ -25,26 +54,11 @@ layout: default
 
 {%- endfor -%}
 	</div>
-	
+	<br>
 	<div class="chapters-buttons" style="margin-bottom: 20px;">
 		{% assign current_global_index = 1 %}
-		
 		{% for post in sorted_posts %}
-			<button type="button" class="btn btn-primary goto-chapter-btn" data-slide-index="chapter{{ post.chapter }}">
-				Глава {{ post.chapter }}
-			</button>
+			<button type="button" class="btn btn-primary goto-chapter-btn" data-slide-index="chapter{{ post.chapter }}">Глава {{ post.chapter }}: {{ post.chapter_title }} ({{post.date | date_to_string}})</button><br>
 		{% endfor %}
 	</div>
 </div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var $fotoramaDiv = $('#comics-gallery').fotorama();
-    var fotorama = $fotoramaDiv.data('fotorama');
-
-    $('.goto-chapter-btn').on('click', function() {
-      var slideIndex = $(this).data('slide-index');
-      fotorama.show(slideIndex);
-    });
-  });
-</script>
