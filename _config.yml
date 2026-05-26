@@ -10,3 +10,5 @@ kramdown:
  input: GFM
  hard_wrap: false
  extensions: ["strikethrough", "smart"]
+plugins:
+  - jekyll-redirect-from

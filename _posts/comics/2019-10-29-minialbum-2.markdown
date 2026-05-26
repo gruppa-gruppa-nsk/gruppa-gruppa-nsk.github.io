@@ -1,0 +1,15 @@
+---
+layout: comics
+title: "Степан и нейросеть 2 | Комиксы"
+description: "Степан и нейросеть 2"
+categories: comics
+series_name: "minialbum"
+date: 2019-10-29 17:47:00
+image: "/img/comics/minialbum/ch2/2-01.jpg"
+image_path: "img/comics/minialbum/ch2"
+chapter: 2
+redirect_to:
+  - /comics/minialbum/#chapter2
+---
+
+
